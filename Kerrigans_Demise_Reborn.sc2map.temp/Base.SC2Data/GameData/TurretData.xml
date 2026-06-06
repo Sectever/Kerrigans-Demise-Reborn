@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTurret id="KorhalPalaceTurret">
+        <YawStart value="-45"/>
+    </CTurret>
+    <CTurret id="MissileTurret">
+        <Idle value="Hold"/>
+    </CTurret>
+</Catalog>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirement id="ArmInterceptorVoid">
+        <NodeArray index="Use" Link="LT600166627CountUnitFlagshipInterceptorQueuedOrBetterAtUnit10"/>
+    </CRequirement>
+    <CRequirement id="EmbraceofDarkness">
+        <NodeArray index="Use" Link="CountUpgradeEmbraceofDarknessCompleteOnly1570326854"/>
+    </CRequirement>
+    <CRequirement id="ForgedPhaseDisruptor">
+        <NodeArray index="Use" Link="CountUpgradeFenixForgedPhaseDisruptorCompleteOnly1516170383"/>
+    </CRequirement>
+    <CRequirement id="FenixPurificationOrders">
+        <NodeArray index="Use" Link="CountUpgradeFenixMilitaristicXenophobicElitismCompleteOnly1157666223"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralCarterEvans">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralCarterEvansCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="PlasmaCoreScarabs">
+        <NodeArray index="Use" Link="CountUpgradePlasmaCoreScarabsCompleteOnly3991192348"/>
+    </CRequirement>
+    <CRequirement id="RefitCapitalShipAtDylarianShipyards">
+        <NodeArray index="Use" Link="CountUpgradeRefitCapitalShipAtDylarianShipyardsCompleteOnly935727531"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralIanEkerband">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralIanEkerbandCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralGuiMontag">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralGuiMontagCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralNovaTerra">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralNovaTerraCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="GuardCarapaceUnlocked">
+        <NodeArray index="Use" Link="CountUpgradeGuardCarapaceEvolutionCompleteOnly1296940790"/>
+    </CRequirement>
+    <CRequirement id="GuardSpinesUnlocked">
+        <NodeArray index="Use" Link="CountUpgradeGuardSpineEvolutionCompleteOnly2726716878"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralAlanSchezar">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralAlanSchezarCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="HasDominion1StarGeneralTomKazansky">
+        <NodeArray index="Use" Link="CountUpgrade1StarGeneralTomKazanskyCompleteOnly1289143898"/>
+    </CRequirement>
+    <CRequirement id="HaveBaneofBlades">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradeBaneofBladesCompleteOnly2402084807TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HaveCarrierPhotonBombs">
+        <NodeArray index="Use" Link="CountUpgradePurificationProtocolsCompleteOnly"/>
+        <NodeArray index="Show" Link="CountUpgradePurificationProtocolsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HaveLostGravitonBooster">
+        <NodeArray index="Use" Link="CountUpgradeLostGravitonBoosterCompleteOnly769896412"/>
+    </CRequirement>
+    <CRequirement id="HaveParticleAccelerator">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradeParticleAcceleratorCompleteOnly1662935029TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HaveTreacheryVanquished">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradeTreacheryVanquishedCompleteOnly741570638TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HaveMetabolicBoost">
+        <NodeArray index="Use" Link="CountUpgradeOvermindKerriganBroodWarEvolutionCompleteOnlyTechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HaveKerriganAscension">
+        <NodeArray index="Use" Link="CountUpgradeKerriganAscensionCompleteOnly2313552204"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKerriganAscensionCompleteOnly2313552204"/>
+    </CRequirement>
+    <CRequirement id="HaveNuke">
+        <NodeArray index="Use" Link="CountUnitNukeCompleteOnly215448666"/>
+    </CRequirement>
+    <CRequirement id="HaveDissectQueenofBlades">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradeUEDDissectQueenofBladesCompleteOnlyTechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HaveDarkVengeance">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradeDarkVengeanceCompleteOnly2065701103TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="HavePerfectHybridSuperiority">
+        <EditorCategories value="Race:Terran,TechType:Unit"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Use" Link="CountUpgradePerfectHybridSuperiorityCompleteOnly3726699020TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofValor">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofValorCompleteOnly1634746839"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofWisdom">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofWisdomCompleteOnly3262784972"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofWarfare">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofWarfareCompleteOnly3876569433"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofTemperance">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofTemperanceCompleteOnly1252166136"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofZeal">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofZealCompleteOnly769612973"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofKhala">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofKhalaCompleteOnly2474092108"/>
+    </CRequirement>
+    <CRequirement id="LoyaltyofForm">
+        <NodeArray index="Use" Link="CountUpgradeLoyaltyofFormCompleteOnly1340758817"/>
+    </CRequirement>
+    <CRequirement id="PurificationProtocol">
+        <NodeArray index="Use" Link="CountUpgradePurificationProtocolsCompleteOnly2067880293"/>
+    </CRequirement>
+    <CRequirement id="VoidArmor">
+        <NodeArray index="Use" Link="CountUpgradeVoidArmorCompleteOnly1979266526"/>
+    </CRequirement>
+    <CRequirement id="ForgedPsiBlades">
+        <NodeArray index="Use" Link="CountUpgradeFenixForgedPsiBladesCompleteOnly1894284443"/>
+    </CRequirement>
+    <CRequirement id="PlasmaATSBlaster">
+        <NodeArray index="Use" Link="CountUpgradePlasmaATSBlasterCompleteOnly893808845"/>
+    </CRequirement>
+    <CRequirement id="FenixLevel12">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="MicroIonicThrusters">
+        <NodeArray index="Use" Link="CountUpgradeMicroIonicThrustersCompleteOnly2305158312"/>
+    </CRequirement>
+    <CRequirement id="ColussusReactor">
+        <NodeArray index="Use" Link="CountUpgradeColossusReactorCompleteOnly360905678"/>
+    </CRequirement>
+    <CRequirement id="TitaniumHull">
+        <NodeArray index="Use" Link="CountUpgradeTitaniumHullCompleteOnly498254763"/>
+    </CRequirement>
+    <CRequirement id="VanadiumArmorUnlocked">
+        <NodeArray index="Use" Link="CountUpgradeVanadiumArmorCompleteOnly3839701794"/>
+    </CRequirement>
+    <CRequirement id="UltraCapacitatorsUnlocked">
+        <NodeArray index="Use" Link="CountUpgradeUltraCapacitatorsCompleteOnly3190116491"/>
+    </CRequirement>
+    <CRequirement id="XelNagaNanoTechnologyUnlocked">
+        <NodeArray index="Use" Link="CountUpgradeNanoPhotonBlasterUpgradeCompleteOnly4223788581"/>
+    </CRequirement>
+    <CRequirement id="ZeratulElitePsionicTraining">
+        <NodeArray index="Use" Link="CountUpgradeZeratulEasterEggBlinkCompleteOnly1334851118"/>
+    </CRequirement>
+</Catalog>

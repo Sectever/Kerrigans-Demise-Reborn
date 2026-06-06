@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirementCountBehavior id="CountBehaviorFuelCellPickupUnitCompleteOnly2">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="KhalisCrystalCarrying" State="CompleteOnly"/>
+    </CRequirementCountBehavior>
+    <CRequirementCountUnit id="CountUnitNukeCompleteOnly215448666">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="Nuke" State="CompleteOnly"/>
+    </CRequirementCountUnit>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralAlanSchezarCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralAlanSchezar" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralCarterEvansCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralCarterEvans" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralGuiMontagCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralGuiMontag" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralIanEkerbandCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralIanEkerband" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralNovaTerraCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralNovaTerra" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgrade1StarGeneralTomKazanskyCompleteOnly1289143898">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="1StarGeneralTomKazansky" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeBaneofBladesCompleteOnly2402084807TechTreeCheat">
+        <Count Link="BaneofBlades" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeColossusReactorCompleteOnly360905678">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="ColossusReactor" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeDarkVengeanceCompleteOnly2065701103TechTreeCheat">
+        <Count Link="DarkVengeance" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeEmbraceofDarknessCompleteOnly1570326854">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="EmbraceofDarkness" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeFenixForgedPhaseDisruptorCompleteOnly1516170383">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="FenixForgedPhaseDisruptor" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeFenixForgedPsiBladesCompleteOnly1894284443">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="FenixForgedPsiBlades" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeFenixMilitaristicXenophobicElitismCompleteOnly1157666223">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="FenixMilitaristicXenophobicElitism" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeGuardCarapaceEvolutionCompleteOnly1296940790">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="GuardCarapaceEvolution" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeGuardSpineEvolutionCompleteOnly2726716878">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="GuardSpineEvolution" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeKerriganAscensionCompleteOnly2313552204">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="KerriganAscension" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLostGravitonBoosterCompleteOnly769896412">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LostGravitonBooster" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofFormCompleteOnly1340758817">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofForm" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofKhalaCompleteOnly2474092108">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofKhala" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofTemperanceCompleteOnly1252166136">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofTemperance" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofValorCompleteOnly1634746839">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofValor" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofWarfareCompleteOnly3876569433">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofWarfare" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofWisdomCompleteOnly3262784972">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofWisdom" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeLoyaltyofZealCompleteOnly769612973">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="LoyaltyofZeal" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeMicroIonicThrustersCompleteOnly2305158312">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="MicroIonicThrusters" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeNanoPhotonBlasterUpgradeCompleteOnly4223788581">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="NanoPhotonBlasterUpgrade" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeOvermindKerriganBroodWarEvolutionCompleteOnlyTechTreeCheat">
+        <Count Link="OvermindKerriganBroodWarEvolution" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeParticleAcceleratorCompleteOnly1662935029TechTreeCheat">
+        <Count Link="ParticleAccelerator" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradePerfectHybridSuperiorityCompleteOnly3726699020TechTreeCheat">
+        <Count Link="PerfectHybridSuperiority" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradePlasmaATSBlasterCompleteOnly893808845">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="PlasmaATSBlaster" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradePlasmaCoreScarabsCompleteOnly3991192348">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="PlasmaCoreScarabs" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradePurificationProtocolsCompleteOnly">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="PurificationProtocols" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradePurificationProtocolsCompleteOnly2067880293">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="PurificationProtocols" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeRefitCapitalShipAtDylarianShipyardsCompleteOnly935727531">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="RefitCapitalShipAtDylarianShipyards" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeTitaniumHullCompleteOnly498254763">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="TitaniumHull" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeTreacheryVanquishedCompleteOnly741570638TechTreeCheat">
+        <Count Link="TreacheryVanquished" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeUEDDissectQueenofBladesCompleteOnlyTechTreeCheat">
+        <Count Link="UEDDissectQueenofBlades" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeUltraCapacitatorsCompleteOnly3190116491">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="UltraCapacitators" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeVanadiumArmorCompleteOnly3839701794">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="VanadiumArmor" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeVoidArmorCompleteOnly1979266526">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="VoidArmor" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementCountUpgrade id="CountUpgradeZeratulEasterEggBlinkCompleteOnly1334851118">
+        <Flags index="TechTreeCheat" value="0"/>
+        <Count Link="ZeratulEasterEggBlink" State="CompleteOnly"/>
+    </CRequirementCountUpgrade>
+    <CRequirementLT id="LT4164600185CountUnitFlagshipInterceptorQueuedOrBetterAtUnit10">
+        <OperandArray index="0" value="CountUnitFlagshipInterceptorQueuedOrBetterAtUnit"/>
+        <OperandArray index="1" value="10"/>
+    </CRequirementLT>
+    <CRequirementLT id="LT600166627CountUnitFlagshipInterceptorQueuedOrBetterAtUnit10">
+        <OperandArray index="0" value="CountUnitFlagshipInterceptorQueuedOrBetterAtUnit"/>
+        <OperandArray index="1" value="10"/>
+    </CRequirementLT>
+    <CRequirementNot id="NotCountUpgradeKerriganAscensionCompleteOnly2313552204">
+        <OperandArray index="0" value="CountUpgradeKerriganAscensionCompleteOnly2313552204"/>
+    </CRequirementNot>
+</Catalog>

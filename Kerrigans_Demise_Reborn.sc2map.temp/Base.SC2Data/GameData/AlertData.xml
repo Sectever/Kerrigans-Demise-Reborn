@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CAlert id="AttackTownAlly_Prot">
+        <Flags index="Ping" value="0"/>
+        <Life value="0.000000"/>
+        <PingTime value="0.000000"/>
+    </CAlert>
+    <CAlert id="AttackTownAlly_Terr">
+        <Flags index="Ping" value="0"/>
+        <Life value="0.000000"/>
+        <PingTime value="0.000000"/>
+    </CAlert>
+    <CAlert id="AttackUnitAlly_Prot">
+        <Flags index="Ping" value="0"/>
+        <Life value="0.000000"/>
+        <PingTime value="0.000000"/>
+    </CAlert>
+    <CAlert id="AttackUnitAlly_Terr">
+        <Flags index="Ping" value="0"/>
+        <Life value="0.000000"/>
+        <PingTime value="0.000000"/>
+    </CAlert>
+    <CAlert id="CalldownLaunch_Prot">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="CalldownLaunch_Terr">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="CalldownLaunch_Zerg">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="UpgradeCompleteHybrid">
+        <Icon value="Assets\Textures\btn-ability-zerg-dehaka-healingaura.dds"/>
+        <Sound value="Alert_ProtossUpgradeComplete"/>
+        <Peripheral value="UpgradeComplete"/>
+    </CAlert>
+    <CAlert id="UpgradeCompleteProtoss">
+        <Icon value="Assets\Textures\btn-upgrade-terran-nova-healingmastery.dds"/>
+        <Sound value="Alert_ProtossUpgradeComplete"/>
+        <Peripheral value="UpgradeComplete"/>
+    </CAlert>
+    <CAlert id="UpgradeCompleteZerg">
+        <Icon value="Assets\Textures\btn-progression-hornerhan-11-mechhealing.dds"/>
+        <Sound value="Alert_ZergUpgradeComplete"/>
+        <Peripheral value="UpgradeComplete"/>
+    </CAlert>
+    <CAlert id="UpgradeCompleteTerran">
+        <Icon value="Assets\Textures\btn-ability-mengsk-medivac-doublehealbeam.dds"/>
+        <Sound value="Alert_TerranUpgradeComplete"/>
+        <Peripheral value="UpgradeComplete"/>
+    </CAlert>
+</Catalog>

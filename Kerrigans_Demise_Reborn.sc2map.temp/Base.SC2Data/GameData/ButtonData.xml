@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CButton id="AdvancedHealingAI"/>
+    <CButton id="DefensiveInDepthStratagem">
+        <Icon value="Assets\Textures\btn-techupgrade-terran-combatshield-color.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="DetonateWarhead">
+        <Icon value="Assets\Textures\btn-ability-mengsk-topbar-nuclearannihilation.dds"/>
+    </CButton>
+    <CButton id="DylarianCapitalShipRefitting">
+        <Icon value="Assets\Textures\talent-raynor-level06-unlockbattlecruiser.dds"/>
+    </CButton>
+    <CButton id="FuryoftheStars">
+        <Icon value="Assets\Textures\btn-tips-starmap.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="ManeuverStrategem">
+        <Icon value="Assets\Textures\talent-raynor-level14-infantryattackspeed.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="MedalofFallenBlood">
+        <Tooltip value="Behavior/Tooltip/MedalofFallenBlood"/>
+        <Icon value="Assets\Textures\btn-tips-fallenheroes.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalofRetaliation">
+        <Tooltip value="Behavior/Tooltip/MedalofRetaliation"/>
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-engineeringbay-orbitaldrop.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="NanoRepair"/>
+    <CButton id="InvasionofBhekarRo">
+        <Icon value="Assets\Textures\btn-ability-protoss-massrecall.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="PlasmaCoreScarabs">
+        <Icon value="Assets\Textures\btn-upgrade-artanis-scarabsplashradius.dds"/>
+    </CButton>
+    <CButton id="PlasmaCoreMunitions">
+        <Icon value="Assets\Textures\btn-upgrade-artanis-scarabsplashradius.dds"/>
+        <HotkeyAlias value="PlasmaCoreScarabs"/>
+    </CButton>
+    <CButton id="ReinforceDylarianShipyards">
+        <Icon value="Assets\Textures\btn-unit-terran-battlecruiser-remastered.dds"/>
+    </CButton>
+    <CButton id="Salvage"/>
+    <CButton id="ShockAweStrategem">
+        <Icon value="Assets\Textures\btn-ability-mengsk-siegetank-shockandawe.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="ArtanisResurgence">
+        <Icon value="Assets\Textures\btn-ability-protoss-barrier-upgraded.dds"/>
+    </CButton>
+    <CButton id="AscensionGrip">
+        <Icon value="Assets\Textures\BTN-Ability-Swarm-Kerrigan-CrushingGrip.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="DuranVoidGrip"/>
+    </CButton>
+    <CButton id="BaneofBlades">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-groundweaponslevel2.dds"/>
+    </CButton>
+    <CButton id="AlteredEnergyNova">
+        <Icon value="Assets\Textures\btn-ability-terran-emp-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-terran-emp-color.dds"/>
+        <EditorCategories value="Race:Terran"/>
+    </CButton>
+    <CButton id="GuerrillaStrategem">
+        <Icon value="Assets\Textures\btn-upgrade-terran-nova-snipeenergyrefund.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="AmbushStrategem">
+        <Icon value="Assets\Textures\btn-upgrade-tychus-detection.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="DeepBattleStrategem">
+        <Icon value="Assets\Textures\btn-tips-laserdrillantiair.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="TotalWarforKoprulu">
+        <Icon value="Assets\Textures\btn-progression-mengsk-01-lawandorder.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="FinalLinktotheKhala">
+        <Icon value="Assets\Textures\btn-ability-protoss-feedbackaoe-color.dds"/>
+    </CButton>
+    <CButton id="LostGravitonBooster">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-gravitoncatapult.dds"/>
+    </CButton>
+    <CButton id="LoyaltyofForm">
+        <Icon value="Assets\Textures\btn-ability-protoss-energize.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="LoyaltyofValor">
+        <Icon value="Assets\Textures\btn-progression-protoss-fenix-12-immortalandscoutchampions-research.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="LoyaltyofWisdom">
+        <Icon value="Assets\Textures\btn-ability-protoss-forceofwill.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="MedalofTriumph">
+        <Icon value="Assets\Textures\btn-ability-protoss-wormholetransit-color.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="OdinBarrage">
+        <Icon value="Assets\Textures\btn-ability-spearofadun-solarbombardment.dds"/>
+    </CButton>
+    <CButton id="OperationShatteredSand">
+        <Icon value="Assets\Textures\btn-tips-defierbones.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="PurificationCampaign">
+        <Icon value="Assets\Textures\btn-ability-protoss-gravitonbeam-color.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="ParticleAccelerator">
+        <Icon value="Assets\Textures\btn-ability-protoss-prismaticrange.dds"/>
+    </CButton>
+    <CButton id="DarkLastStand">
+        <Icon value="Assets\Textures\btn-ability-zeratul-hero-propheticvision.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="ReflectionoftheSoul">
+        <Icon value="Assets\Textures\btn-ability-protoss-doubleshieldrecharge.dds"/>
+        <HotkeyAlias value="PsychicLink"/>
+    </CButton>
+    <CButton id="PurificationOrdersfromtheProtossEmpire">
+        <Icon value="Assets\Textures\talent-artanis-level01-swiftretribution.dds"/>
+        <HotkeyAlias value="GoldenBattleArmor"/>
+    </CButton>
+    <CButton id="PX2PhaseDisruptor">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-scoutchampionaoemissiles.dds"/>
+        <HotkeyAlias value="ForgedPsiBlades"/>
+    </CButton>
+    <CButton id="ScoutSpeedBoost">
+        <Icon value="btn-ability-terran-nitrogenemergencythrusters.dds"/>
+        <AlertIcon value="btn-upgrade-terran-medivacemergencythrusters-nitrogen.dds"/>
+    </CButton>
+    <CButton id="SelfDestructProtocols">
+        <Icon value="Assets\Textures\btn-ability-mengsk-marauder-selfabsorbshield.dds"/>
+    </CButton>
+    <CButton id="StaroftheTemplar">
+        <Icon value="Assets\Textures\btn-upgrade-artanis-pylonpower.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="LoyaltyofTemperance">
+        <Icon value="Assets\Textures\btn-progression-protoss-fenix-14-colossusandcarrierchampionsresearch.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="StarBreakerFocus">
+        <Icon value="Assets\Textures\btn-ability-spearofadun-chronomancy.dds"/>
+    </CButton>
+    <CButton id="BulkyParasite">
+        <Icon value="Assets\Textures\btn-ability-zerg-neuralparasite-color.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CButton>
+    <CButton id="CrystallicArmor">
+        <Icon value="Assets\Textures\btn-ability-protoss-reclamation.dds"/>
+    </CButton>
+    <CButton id="CrystallicRebound">
+        <Icon value="Assets\Textures\btn-ability-protoss-entomb.dds"/>
+        <HotkeyAlias value="CrystallicArmor"/>
+    </CButton>
+    <CButton id="DebilitatingParasite">
+        <Icon value="Assets\Textures\btn-ability-zerg-parasiticinvasion.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CButton>
+    <CButton id="CurseoftheThreshold">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-infestedfactoryresearchbundle_09.dds"/>
+    </CButton>
+    <CButton id="EvasiveManuevers">
+        <Icon value="Assets\Textures\btn-ability-mengsk-viking-doabarrelrolll.dds"/>
+        <HotkeyAlias value="EmbraceofDarkness"/>
+    </CButton>
+    <CButton id="GroundZero">
+        <Icon value="Assets\Textures\btn-progression-mengsk-10-nuclearannihilation.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="BirdsofWar">
+        <Icon value="Assets\Textures\btn-progression-mengsk-12-newunitprideofaugustgrad.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="LoyaltyofWarfare">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-graviticdrive.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="OrderoftheConclaveContesttheUEDBlockade">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-khaydarinamulet.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="TreacheryVanquished">
+        <Icon value="Assets\Textures\ui-heroicon-artanisSC1.dds"/>
+    </CButton>
+    <CButton id="DarkVengeance">
+        <Icon value="Assets\Textures\btn-progression-zeratul-15-purityofwill.dds"/>
+        <HotkeyAlias value="TreacheryVanquished"/>
+    </CButton>
+    <CButton id="HybridGeneticSupremacy">
+        <Icon value="Assets\Textures\ui-heroicon-duran-xelnaga.dds"/>
+        <HotkeyAlias value="TreacheryVanquished"/>
+    </CButton>
+    <CButton id="WarbringerScarabHousing">
+        <Icon value="Assets\Textures\btn-ability-protoss-scarabshot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-scarabshot.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="LoyaltyofZeal">
+        <Icon value="Assets\Textures\btn-ability-protoss-reconstruction.dds"/>
+    </CButton>
+    <CButton id="LoyaltyofKhala">
+        <Icon value="Assets\Textures\btn-ability-protoss-adept-spiritform.dds"/>
+        <HotkeyAlias value="LoyaltyofZeal"/>
+    </CButton>
+    <CButton id="WarbringerScarabCreate">
+        <TooltipAppender Validator="CommanderPrestigeArtanisCombatAbilities" Text="Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesBuildTimeUpgrade"/>
+        <Icon value="Assets\Textures\BTN-Ability-Protoss-ScarabShot.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Ability-Protoss-ScarabShot.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="UEDArmoredHelicopter">
+        <Icon value="Assets\Textures\btn-upgrade-terran-shipplatinglevel2.dds"/>
+    </CButton>
+    <CButton id="OperationWhiteSnow">
+        <Icon value="Assets\Textures\btn-top-hornerhan-fleetcalldown.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="OperationGreenDust">
+        <Icon value="Assets\Textures\btn-progression-mengsk-10-nuclearannihilation.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="PivotingtoProtossEssence">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-droppods.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="KerrigansDeception">
+        <Icon value="Assets\Textures\talent-kerrigan-level09-kerriganresearchbundle.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="PsychicLink">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-flyingqueenunlocksmoreupgrades_13.dds"/>
+    </CButton>
+    <CButton id="QueenClassicParasite"/>
+    <CButton id="QueenStukovSpawnBroodlings">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-infestedspawnbroodling.dds"/>
+    </CButton>
+    <CButton id="ServantoftheQueen">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-heroicfortitude.dds"/>
+        <HotkeyAlias value="ConquererofKoprulu"/>
+    </CButton>
+    <CButton id="InitiateHyperspaceWarp2">
+        <Icon value="Assets\Textures\btn-tips-hyperion.dds"/>
+    </CButton>
+    <CButton id="AnnihilationTactics">
+        <Icon value="Assets\Textures\btn-ability-zeratul-topbar-avatarofform.dds"/>
+    </CButton>
+    <CButton id="Decal_Spray_0116_01"/>
+    <CButton id="BrowseDominionMedals" parent="SprayDefault">
+        <Tooltip value="BrowseDominionMedals"/>
+        <Icon value="Assets\Textures\Decal_Spray_0116_01.dds"/>
+        <HotkeyAlias value="Decal_Spray_0116_01"/>
+    </CButton>
+    <CButton id="GuardCarapace">
+        <Icon value="Assets\Textures\btn-ability-zerg-dehaka-mutalisk-shiftingcarapace.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="MedalONewGettysburg">
+        <Icon value="Assets\Textures\talent-raynor-level04-barracksresearchbundle.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfKorhal">
+        <Icon value="Assets\Textures\btn-ability-mengsk-viking-cheatdeath.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfSilverShield">
+        <Icon value="Assets\Textures\btn-upgrade-nova-tacticalstealthsuit.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfIronHammer">
+        <Icon value="Assets\Textures\btn-ability-mengsk-viking-doabarrelrolll.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfTwilight">
+        <Icon value="Assets\Textures\btn-ability-mengsk-thor-bigboycover.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfGoldenEagle">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-willofthepeople.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfChauSara">
+        <Icon value="Assets\Textures\btn-upgrade-artanis-scarabsplashradius.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalOfHumanity">
+        <Icon value="Assets\Textures\btn-ability-mengsk-commandcenter-drafttroopers.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="MedalofArcturusMengsk">
+        <Tooltip value="Behavior/Tooltip/MedalofArcturusMengsk"/>
+        <Icon value="Assets\Textures\btn-progression-mengsk-15-promotiongranted.dds"/>
+    </CButton>
+    <CButton id="MedalOfPatriotBlood">
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-veterancy.dds"/>
+        <HotkeyAlias value="MedalofArcturusMengsk"/>
+    </CButton>
+    <CButton id="PsionicLift">
+        <TooltipAppender index="0" removed="1"/>
+    </CButton>
+    <CButton id="AscensionTelekinesis" parent="PsionicLift">
+        <Name value="Button/Name/AscensionTelekinesis"/>
+        <Tooltip value="Button/Tooltip/AscensionTelekinesis"/>
+        <AlertName value="Button/Name/AscensionTelekinesis"/>
+        <AlertTooltip value="Button/Tooltip/AscensionTelekinesis"/>
+        <Hotkey value="Button/Hotkey/AscensionTelekinesis"/>
+    </CButton>
+    <CButton id="TheCycleRestarts">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-heroicfortitude.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="PerfectCarapace">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-adaptivecarapace.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="GuardSpines">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-seismicspines.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="HybridFury">
+        <Icon value="Assets\Textures\btn-ability-protoss-amoncloud.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="FinishHuntingHumanity">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-infestedciviliansleap.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="TitanChitin">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-chitinousplating.dds"/>
+        <HotkeyAlias value="MicroIonicThrusters"/>
+    </CButton>
+    <CButton id="CommanderofAiur">
+        <Icon value="Assets\Textures\btn-ability-protoss-resurgence.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="VoidCarapace">
+        <Icon value="Assets\Textures\btn-amonshardsarmor.dds"/>
+    </CButton>
+    <CButton id="IndomitableStrategem">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-willofthepeople.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="WrathoftheKhala">
+        <Icon value="Assets\Textures\btn-upgrade-karax-unitybarrier.dds"/>
+    </CButton>
+    <CButton id="WrathoftheOvermind">
+        <Icon value="Assets\Textures\btn-ability-zerg-genemutation-carapace.dds"/>
+        <HotkeyAlias value="TheSwarmBeckons"/>
+    </CButton>
+    <CButton id="CosmicRegeneration">
+        <Icon value="Assets\Textures\btn-ability-zerg-causticspray.dds"/>
+    </CButton>
+    <CButton id="EmbraceofDarkness">
+        <Icon value="icon_pack_21\icon_pack_9\btn-custom-protoss-zeratul-shadow.dds"/>
+    </CButton>
+    <CButton id="CerebratesProtection">
+        <Icon value="Assets\Textures\btn-ability-zerg-kraith-thornsaura.dds"/>
+        <HotkeyAlias value="TheSwarmBeckons"/>
+    </CButton>
+    <CButton id="KerrigansTreachery">
+        <Icon value="icon_pack_21\btn-custom-zerg-queenofblades-d3.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="QueenofBlades">
+        <Icon value="Assets\Textures\talent-kerrigan-level15-energyregeneration.dds"/>
+    </CButton>
+    <CButton id="StarVoidArmor">
+        <Icon value="Assets\Textures\btn-ability-zeratul-immortal-enternitybarrier.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+        <HotkeyAlias value="PrologueVoidArmor"/>
+    </CButton>
+    <CButton id="TheSwarmBeckons">
+        <Icon value="Assets\Textures\btn-ability-zerg-stukov-infeststructureupgrade.dds"/>
+    </CButton>
+    <CButton id="EvolutionoftheCerebrate">
+        <Icon value="Assets\Textures\btn-ability-zerg-stukov-ensnare.dds"/>
+        <HotkeyAlias value="TheSwarmBeckons"/>
+    </CButton>
+    <CButton id="TheThreattoStability">
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-pyrokineticimmolation_orange.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="OpenRebellion">
+        <Icon value="Assets\Textures\btn-tips-hyperion.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="OldEarthThreat">
+        <Icon value="Assets\Textures\btn-tips-starmap.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="TenacityoftheSwarm">
+        <Icon value="Assets\Textures\btn-upgrade-kerrigan-assimilationaura.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="OperationLostSoldier">
+        <Icon value="Assets\Textures\talent-raynor-level06-unlockbattlecruiser.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="OperationEmerald">
+        <Icon value="Assets\Textures\btn-ability-protoss-stasistrap.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="CerebrateWarStrategies">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-wildmutation.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="ConquererofKoprulu">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-kineticblast.dds"/>
+    </CButton>
+    <CButton id="OperationBlackFlag">
+        <Icon value="Assets\Textures\btn-progression-stetmann-12-ultraliskupgradecache.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="Escalation">
+        <Icon value="Assets\Textures\btn-ability-mengsk-battlecruiser-decksights.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="DetenteWithArtanis">
+        <Icon value="Assets\Textures\talent-artanis-level01-swiftretribution.dds"/>
+    </CButton>
+    <CButton id="DetenteWithUED">
+        <Icon value="UnitedEarthDirectorate_SC1_Logo2.tga"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="DetenteWithDominion">
+        <Icon value="Assets\Textures\btn-icon-dominion.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="DetenteWithZeratul">
+        <Icon value="icon_pack_21\icon_pack_9\btn-custom-protoss-zeratul.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="DetenteWithJimmy">
+        <Icon value="Assets\Textures\talent-raynor-level01-infantryspecialist.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="DetenteWithDuran">
+        <Icon value="Assets\Textures\btn-progression-zeratul-01-powerofthexelnaga.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="ContinuedCooperation">
+        <Icon value="Assets\Textures\btn-tips-laserdrillantiair.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="RebelYell">
+        <Icon value="Assets\Textures\talent-raynor-level15-hyperiondamageaura.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="NoConsortingWithAlienPowers">
+        <Icon value="Assets\Textures\talent-vorazun-level14-cloakedunitdamageboost.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="OperationEmperorsFall">
+        <Icon value="Assets\Textures\btn-ability-mengsk-topbar-nuclearannihilation.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="TheQueenReigns">
+        <Icon value="Assets\Textures\btn-ability-swarm-kerriganrevive.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="IgnitetheBroodWars">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-heroicfortitude.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="KerriganWarStrategies">
+        <Icon value="icon_pack_21\icon_pack_9\btn-custom-zerg-queenofblades.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="ShakurasWarStrategies">
+        <Icon value="Assets\Textures\talent-artanis-level06-templararchivesresearchbundle.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="GoldenBattleArmor">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-fenix-dragoonsuit-platearmor.dds"/>
+    </CButton>
+    <CButton id="Cancel2">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="CrestPlasmaAbsorption">
+        <Icon value="Assets\Textures\btn-progression-mengsk-15-promotiongranted.dds"/>
+    </CButton>
+    <CButton id="DominionWarStrategies">
+        <Icon value="Assets\Textures\btn-icon-dominion.dds"/>
+    </CButton>
+    <CButton id="AiurWarStrategies">
+        <Icon value="Assets\Textures\talent-artanis-level03-warpgatecharges.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="OvermindWarStrategies">
+        <Icon value="Assets\Textures\btn-ability-zerg-overlord-oversight.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="TheKingReigns">
+        <Icon value="Assets\Textures\btn-ability-zerg-overlord-oversight.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="RenegadePawn">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-swarmhostburrow.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="SkewertheEagle">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-willofthepeople.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="TheThreattoUnity">
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-pyrokineticimmolation_blue.dds"/>
+        <HotkeyAlias value="DetenteWithArtanis"/>
+    </CButton>
+    <CButton id="UEDWarStrategies">
+        <Icon value="UnitedEarthDirectorate_SC1_Logo2.tga"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="ForgedPsiBlades">
+        <Icon value="btn-weapon-protoss-ground-color.dds"/>
+    </CButton>
+    <CButton id="PlasmaATSBlaster">
+        <Icon value="Assets\Textures\btn-upgrade-raynor-ripwavemissiles.dds"/>
+        <HotkeyAlias value="MicroIonicThrusters"/>
+    </CButton>
+    <CButton id="MicroIonicThrusters">
+        <Icon value="Assets\Textures\btn-ability-terran-emergencythrusters.dds"/>
+    </CButton>
+    <CButton id="ColossusHull">
+        <Icon value="Assets\Textures\btn-upgrade-terran-corvidreactor.dds"/>
+        <HotkeyAlias value="MicroIonicThrusters"/>
+    </CButton>
+    <CButton id="RagingCrimson">
+        <Icon value="Assets\Textures\btn-progression-mengsk-14-advancedroyalguardupgradecache.dds"/>
+    </CButton>
+    <CButton id="TitaniumHull">
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-engineeringbay-neosteelfortifiedarmor.dds"/>
+        <HotkeyAlias value="MicroIonicThrusters"/>
+    </CButton>
+    <CButton id="RaiderWarStrategies">
+        <Icon value="Assets\Textures\talent-raynor-level06-unlockbattlecruiser.dds"/>
+        <HotkeyAlias value="DominionWarStrategies"/>
+    </CButton>
+    <CButton id="UltraCapacitator">
+        <Icon value="Assets\Textures\btn-research-terran-ultracapacitors.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="ArmorofBlades">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-malignantcreep.dds"/>
+        <HotkeyAlias value="VanadiumArmor"/>
+    </CButton>
+    <CButton id="InitiateHyperspaceWarp">
+        <Icon value="Assets\Textures\btn-tips-hyperion.dds"/>
+    </CButton>
+    <CButton id="WilloftheEmperorStrategem">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-willofthepeople.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="DefensiveStrategem">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+    </CButton>
+    <CButton id="DecisiveStrategem">
+        <Icon value="Assets\Textures\btn-ability-mengsk-battlecruiser-decksights.dds"/>
+        <HotkeyAlias value="DefensiveStrategem"/>
+    </CButton>
+    <CButton id="DropOff">
+        <Icon value="Assets\Textures\btn-ability-terran-unloadall.dds"/>
+    </CButton>
+    <CButton id="JuggernautPlating">
+        <Icon value="Assets\Textures\btn-upgrade-mengsk-engineeringbay-dominionarmorlevel3.dds"/>
+    </CButton>
+    <CButton id="Load2">
+        <Icon value="Assets\Textures\btn-ability-terran-load.dds"/>
+    </CButton>
+    <CButton id="OmegaStorm">
+        <Icon value="Assets\Portraits\Terran\Duke\Assets\Textures\btn-ability-zerg-razorswarm.dds"/>
+    </CButton>
+    <CButton id="OpenGate">
+        <Icon value="Assets\Textures\btn-ability-terran-load.dds"/>
+    </CButton>
+    <CButton id="CloseGate">
+        <Icon value="Assets\Textures\btn-ability-terran-unloadall.dds"/>
+    </CButton>
+    <CButton id="PsiDisruption2">
+        <Icon value="Assets\Textures\btn-ability-terran-psidisruption.dds"/>
+        <EditorCategories value="Race:Terran"/>
+        <TintRacially value="1"/>
+    </CButton>
+    <CButton id="UpgradeHybridSpawn">
+        <Icon value="Assets\Textures\btn-ability-zerg-dehaka-healingaura.dds"/>
+        <HotkeyAlias value="UpgradeTerranSpawn"/>
+        <AlertIcon value="Assets\Textures\btn-ability-zerg-dehaka-healingaura.dds"/>
+    </CButton>
+    <CButton id="UpgradeTerranSpawn">
+        <Icon value="Assets\Textures\btn-ability-mengsk-medivac-doublehealbeam.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-mengsk-medivac-doublehealbeam.dds"/>
+    </CButton>
+    <CButton id="UpgradeZergSpawn">
+        <Icon value="Assets\Textures\btn-progression-hornerhan-11-mechhealing.dds"/>
+        <HotkeyAlias value="UpgradeTerranSpawn"/>
+        <AlertIcon value="Assets\Textures\btn-progression-hornerhan-11-mechhealing.dds"/>
+    </CButton>
+    <CButton id="UpgradeProtossSpawn">
+        <Icon value="Assets\Textures\btn-upgrade-terran-nova-healingmastery.dds"/>
+        <HotkeyAlias value="UpgradeTerranSpawn"/>
+        <AlertIcon value="Assets\Textures\btn-upgrade-terran-nova-healingmastery.dds"/>
+    </CButton>
+    <CButton id="VanadiumArmor">
+        <Icon value="Assets\Textures\btn-research-terran-vanadiumplating.dds"/>
+    </CButton>
+    <CButton id="XelNagaNanoTechnology">
+        <Icon value="Assets\Textures\btn-ability-zeratul-hero-summonvoidseeker.dds"/>
+    </CButton>
+    <CButton id="XelNagaRegeneration">
+        <Icon value="Assets\Textures\btn-ability-zeratul-topbar-selectability.dds"/>
+    </CButton>
+    <CButton id="XelNagaRegeneration2">
+        <Icon value="Assets\Textures\btn-ability-zeratul-topbar-selectability.dds"/>
+        <HotkeyAlias value="XelNagaRegeneration"/>
+    </CButton>
+    <CButton id="XelNagaRegeneration3">
+        <Icon value="Assets\Textures\btn-ability-zeratul-topbar-selectability.dds"/>
+        <HotkeyAlias value="XelNagaRegeneration"/>
+    </CButton>
+    <CButton id="XelNagaRifleTechnology">
+        <Icon value="Assets\Textures\btn-ability-zeratul-stalker-predectiveblink.dds"/>
+        <HotkeyAlias value="XelNagaRegeneration"/>
+    </CButton>
+</Catalog>

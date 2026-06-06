@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CSound id="250mmStrikeCannonsSound">
+        <AssetArray index="0" File="Assets\Sounds\Terran_BuildingExplosionLarge0.wav" FacialGroup=""/>
+        <AssetArray index="1" File="Assets\Sounds\Terran_BuildingExplosionLarge1.wav" FacialGroup=""/>
+        <AssetArray index="2" File="Assets\Sounds\Terran_BuildingExplosionLarge2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge9.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="AC_FuelCell_Pkup2" parent="UI">
+        <AssetArray File="Assets\Sounds\Zerus_Chrono_Pkup_3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerus_Chrono_Pkup_6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerus_Chrono_Pkup_8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerus_Chrono_Pkup_9.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerus_DNA_Pkup_9.wav" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+        <Pitch value="-2.000000,0.000000"/>
+        <SpeakerMix index="BackLeft" value="1.000000"/>
+        <SpeakerMix index="BackRight" value="1.000000"/>
+        <SpeakerMix index="SideLeft" value="1.000000"/>
+        <SpeakerMix index="SideRight" value="1.000000"/>
+        <Volume value="-8.000000,-8.000000"/>
+    </CSound>
+    <CSound id="AC_FuelCell_Pkup_RockLayer2" parent="UI">
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy05.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy06.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy07.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy08.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PhysicsImpactSound_Dirt_Heavy09.wav" FacialGroup=""/>
+        <Category value="Combat"/>
+        <DupeDestroyCount value="5"/>
+        <DupeHistoryCount value="8"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="5"/>
+        <DupeRepeatCount value="5"/>
+        <DupeWait value="500,500"/>
+        <Mode value="3DWorld"/>
+        <Pitch value="-3.000000,0.000000"/>
+        <ResourcePriority value="16"/>
+        <ReverbBalance Room="0"/>
+        <SpeakerMix index="BackLeft" value="1.000000"/>
+        <SpeakerMix index="BackRight" value="1.000000"/>
+        <SpeakerMix index="SideLeft" value="1.000000"/>
+        <SpeakerMix index="SideRight" value="1.000000"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="AiurCrashingDebris_Impact">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UKiFir00.wav" Volume="6.000000,6.000000"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Pitch value="-2.000000,-2.000000"/>
+        <Volume value="6.000000,6.000000"/>
+        <ResourcePriority value="32"/>
+        <VolumeRolloffPoints index="0" removed="1"/>
+        <VolumeRolloffPoints index="1" removed="1"/>
+    </CSound>
+    <CSound id="Aiur_EnergyWall_Loop">
+        <AssetArray index="0" Volume="-5.000000,-5.000000"/>
+        <Volume value="-8.000000,-8.000000"/>
+    </CSound>
+    <CSound id="Alert_ProtossCalldownLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\NuclearLaunchDetectedP.wav"/>
+    </CSound>
+    <CSound id="Alert_TerranCalldownLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\NuclearLaunchDetectedT.wav"/>
+    </CSound>
+    <CSound id="Alert_ZergCalldownLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\NuclearLaunchDetectedZ.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+    </CSound>
+    <CSound id="AncientXelNagaRifleImpact2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact5.wav"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="AncientXelNagaRifleLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <DupeMaximumMethod value="Replace"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="ArtanisTauntKerrigan">
+        <AssetArray File="Starcraft One Sounds\zab07art.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="Artifact_EnergyNova2" parent="Spell">
+        <EditorCategories value="Race:Neutral"/>
+        <AssetArray File="Assets\Sounds\Uni\Units\Artifact\Artifact_EnergyNovaLaunch0.wav"/>
+        <Spread value="180.000000"/>
+    </CSound>
+    <CSound id="BarrageMorph">
+        <AssetArray index="0" File="Assets\Sounds\SOA_PurificationBeam_ChargeUp01_2ch.wav"/>
+        <AssetArray File="Assets\Sounds\SOA_PurificationBeam_ChargeUp02_2ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_PurificationBeam_ChargeUp03_2ch.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="BarrageSound">
+        <AssetArray index="0" File="Assets\Sounds\SOA_SolarBombardment_Impact01_1ch.wav" FacialGroup=""/>
+        <AssetArray index="1" File="Assets\Sounds\SOA_SolarBombardment_Impact02_1ch.wav" FacialGroup=""/>
+        <AssetArray index="2" File="Assets\Sounds\SOA_SolarBombardment_Impact03_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact04_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact05_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact06_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact07_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact08_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact09_1ch.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_SolarBombardment_Impact10_1ch.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="BarrageUnMorph">
+        <AssetArray index="0" File="Assets\Sounds\SOA_PurificationBeam_End01_quad.ogg"/>
+        <AssetArray File="Assets\Sounds\SOA_PurificationBeam_End02_quad.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_PurificationBeam_End03_quad.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SOA_PurificationBeam_End04_quad.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="DarkTemplar_AttackImpact">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UZeFir00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="IcesawChase" parent="MUSIC">
+        <AssetArray File="Stahl Arms - The Icesaw Chase.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="DugalleTauntKerrigan1">
+        <AssetArray File="Starcraft One Sounds\zab13gal.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="DugalleTauntKerrigan2">
+        <AssetArray File="Starcraft One Sounds\zab15gal.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="BlueSkiesandaBattle" parent="MUSIC">
+        <AssetArray File="Blue Skies and a Battle (From Fire Emblem Three Houses) [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="ProtectingtheConvoy" parent="MUSIC">
+        <AssetArray File="Killzone 2 Soundtrack - Protecting the Convoy.ogg" Pitch="-0.500000,-0.500000" FacialGroup=""/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Medivac_HealLoop">
+        <AssetArray index="0" File="Assets\Sounds\Thor_SelfRepair_HealLoop.wav"/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="SoulofCinder" parent="MUSIC">
+        <AssetArray>
+            <File value="Soul of Cinder (from Dark Souls III) [Synthwave Arrangement] [TubeRipper.cc].ogg"/>
+            <Pitch value="-1.500000,-1.500000"/>
+            <Volume value="0.500000,0.500000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Karass_AttackLaunch">
+        <AssetArray index="0" File="laserb.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-8.000000,-8.000000"/>
+    </CSound>
+    <CSound id="KerriganOmega1">
+        <AssetArray File="Starcraft One Sounds\zab00zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega2">
+        <AssetArray File="Starcraft One Sounds\zab02zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega3">
+        <AssetArray File="Starcraft One Sounds\zab04zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega4">
+        <AssetArray File="Starcraft One Sounds\zab06zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega5">
+        <AssetArray File="Starcraft One Sounds\zab08zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega6">
+        <AssetArray File="Starcraft One Sounds\zab10zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega7">
+        <AssetArray File="Starcraft One Sounds\zab12zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="KerriganOmega8">
+        <AssetArray File="Starcraft One Sounds\zab14zke.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="MengskTauntKerrigan1">
+        <AssetArray File="Starcraft One Sounds\zab01men.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="BetweenHeavenandEarthIntro" parent="MUSIC">
+        <AssetArray File="FE Three Houses OST - 100. Rematch [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.200000,-1.200000"/>
+        <Volume value="1.400000,1.400000"/>
+    </CSound>
+    <CSound id="CivilianDeath">
+        <AssetArray index="0" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvdth00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+        <AssetArray index="10" removed="1"/>
+        <AssetArray index="11" removed="1"/>
+        <AssetArray index="12" removed="1"/>
+        <AssetArray index="13" removed="1"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="CivilianYes" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvyes00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvyes01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvyes02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvyes03.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvyes04.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="CivilianPissed" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvpss00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvpss01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvpss02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvpss03.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvpss04.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvrdy00.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Cyclone_Missile_Launch">
+        <AssetArray index="0" File="Assets\Sounds\SpacePlatform_Missile_Launch_01a.wav"/>
+        <AssetArray index="1" File="Assets\Sounds\SpacePlatform_Missile_Launch_01b.wav"/>
+        <AssetArray index="2" File="Assets\Sounds\SpacePlatform_Missile_Launch_02a.wav"/>
+        <AssetArray index="3" File="Assets\Sounds\SpacePlatform_Missile_Launch_02b.wav"/>
+        <AssetArray index="4" File="Assets\Sounds\SpacePlatform_Missile_Launch_03a.wav"/>
+        <AssetArray index="5" File="Assets\Sounds\SpacePlatform_Missile_Launch_03b.wav"/>
+        <AssetArray File="Assets\Sounds\SpacePlatform_Missile_Launch_04a.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SpacePlatform_Missile_Launch_04b.wav" FacialGroup=""/>
+        <Pitch value="4.000000,4.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="DarkArchon_What">
+        <AssetArray index="0" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdardy00.wav" FacialGroup=""/>
+        <AssetArray index="1" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdawht00.wav" FacialGroup=""/>
+        <AssetArray index="2" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdawht01.wav" FacialGroup=""/>
+        <AssetArray index="3" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdawht02.wav" FacialGroup=""/>
+        <AssetArray index="4" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdawht03.wav" FacialGroup=""/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+    </CSound>
+    <CSound id="DarkArchon_Yes">
+        <AssetArray index="0" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdayes00.wav" FacialGroup=""/>
+        <AssetArray index="1" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdayes01.wav" FacialGroup=""/>
+        <AssetArray index="2" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdayes02.wav" FacialGroup=""/>
+        <AssetArray index="3" TemplateParam="" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Dark Archon\darchon\pdayes03.wav" FacialGroup=""/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+    </CSound>
+    <CSound id="DugalleWhat" parent="TerranAck">
+        <AssetArray File="Assets\DugalleLines\Dugalle1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle15.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle9.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="DugallePissed" parent="TerranAck">
+        <AssetArray File="Assets\DugalleLines\Dugalle10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle13.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle14.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle16.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="GameMusicBattleAgainstaTrueHero" parent="MUSIC">
+        <AssetArray File="Undertale - Battle Against a True Hero Intense Symphonic Metal Cover [TubeRipper.com].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="BetweenHeavenandEarth" parent="MUSIC">
+        <AssetArray File="Between Heaven and Earth [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.200000,-1.200000"/>
+        <Volume value="1.400000,1.400000"/>
+    </CSound>
+    <CSound id="GameMusicApexoftheWorld" parent="MUSIC">
+        <AssetArray File="FIRE EMBLEM_ THREE HOUSES Apex of the World METAL (feat. @JuliaHenderson).ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="GameMusicFuneralForaHero" parent="MUSIC">
+        <AssetArray File="Starcraft OST-Funeral for a Hero [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="GameMusicCharUnderUEDControl" parent="MUSIC">
+        <AssetArray File="StarCraft Soundtrack [#25] - Char Falls Under Directorate Control [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="HellMarch23" parent="MUSIC">
+        <AssetArray File="Hell March 2 3 Medley (Remastered) [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Volume value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="GameMusicSpaceSong" parent="MUSIC">
+        <AssetArray File="Beach House - Space Song (synthwaveretro 80s remix) feat. MINTTT [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-1.000000,0.000000"/>
+    </CSound>
+    <CSound id="GameMusicFuneralOfFlowers" parent="MUSIC">
+        <AssetArray File="FIRE EMBLEM THREE HOUSES - A Funeral of Flowers [METAL] [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-1.000000,0.000000"/>
+    </CSound>
+    <CSound id="Ghost_BunkerAttackLaunch32" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch2.wav"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-12.000000,-10.500000"/>
+    </CSound>
+    <CSound id="IzshaA_GamePaused">
+        <AssetArray index="0" File="LocalizedData\Sounds\ZergUnitVO\Queen\Alert_ZergGamePaused.ogg"/>
+    </CSound>
+    <CSound id="IzshaA_GameResumed">
+        <AssetArray index="0" File="LocalizedData\Sounds\ZergUnitVO\Queen\Alert_ZergGameResumed.ogg"/>
+    </CSound>
+    <CSound id="CivilianWhat" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvwht00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvwht01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvwht02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\tcvwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="HALOMissileSalvoImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionSmall5.wav"/>
+        <Pitch value="8.000000,14.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="HALOMissileSalvoLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_MissilePodsLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_MissilePodsLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_MissilePodsLaunch2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_MissilePodsLaunch3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Battlecruiser\Battlecruiser_MissilePodsLaunch4.wav"/>
+        <Category value="Spell"/>
+        <DupeDestroyCount value="10"/>
+        <DupeMaximumMethod value="Replace"/>
+        <OverlapTimeDelta value="500"/>
+        <Pitch value="-2.000000,2.000000"/>
+        <Volume value="-7.500000,-6.000000"/>
+    </CSound>
+    <CSound id="Liberator_AG_Launch">
+        <AssetArray index="0" File="Assets\Sounds\Marauder_Magrail_Launch_01.wav"/>
+        <AssetArray index="1" File="Assets\Sounds\Marauder_Magrail_Launch_02.wav" Volume="0.000000,0.000000"/>
+        <AssetArray index="2" File="Assets\Sounds\Marauder_Magrail_Launch_03.wav"/>
+        <AssetArray index="3" File="Assets\Sounds\Marauder_Magrail_Launch_04.wav" Volume="0.000000,0.000000"/>
+        <AssetArray index="4" File="Assets\Sounds\Marauder_Magrail_Launch_05.wav"/>
+        <AssetArray index="5" File="Assets\Sounds\Marauder_Magrail_Launch_06.wav"/>
+        <AssetArray index="6" File="Assets\Sounds\Marauder_Magrail_Launch_07.wav" Volume="0.000000,0.000000"/>
+        <AssetArray index="7" removed="1"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Liberator_AG_Launch_Impact">
+        <AssetArray index="0" File="Assets\Sounds\HybridThrasher_ImpactElectric_01.wav"/>
+        <AssetArray index="1" File="Assets\Sounds\HybridThrasher_ImpactElectric_02.wav"/>
+        <AssetArray index="2" File="Assets\Sounds\HybridThrasher_ImpactElectric_03.wav"/>
+        <AssetArray index="3" File="Assets\Sounds\HybridThrasher_ImpactElectric_04.wav"/>
+        <AssetArray index="4" File="Assets\Sounds\HybridThrasher_ImpactElectric_05.wav"/>
+        <AssetArray index="5" removed="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="MengskTauntKerrigan2">
+        <AssetArray File="Starcraft One Sounds\zab03men.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="DugalleTauntKerrigan">
+        <AssetArray File="Starcraft One Sounds\zab11gal.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="MengskTauntKerrigan3">
+        <AssetArray File="Starcraft One Sounds\zab05men.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="MengskTauntKerrigan4">
+        <AssetArray File="Starcraft One Sounds\zab09men.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="Mojo_AirAttackLaunch">
+        <AssetArray index="0" File="hkmissle.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+    </CSound>
+    <CSound id="SJGriffon_Explode">
+        <AssetArray index="0" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkDth00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+        <Volume value="-4.000000,-3.000000"/>
+    </CSound>
+    <CSound id="SJValkyrie_AttackImpact2" parent="Combat">
+        <EditorCategories value="Race:Neutral"/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_05.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_06.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_07.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_08.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_09.wav" FacialGroup=""/>
+        <DupeDestroyCount value="3"/>
+        <DupeMuteCount value="1"/>
+        <Volume value="-18.000000,-15.000000"/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+    </CSound>
+    <CSound id="SJValkyrie_AttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Neutral"/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_05.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_06.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_07.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_08.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Valkyrie_AttackLaunch_09.wav" FacialGroup=""/>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="2"/>
+        <OverlapTimeDelta value="100"/>
+        <Pitch value="-1.000000,0.500000"/>
+        <Volume value="-9.000000,-4.000000"/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+    </CSound>
+    <CSound id="ED101LaserRifleImpactImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact4.wav"/>
+        <Pitch value="-3.000000,3.000000"/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="ED101LaserRifleLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch2.wav" FacialGroup=""/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="ScoutGroundAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\BlastGn2.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Scout_AirAttackLaunch">
+        <AssetArray index="0" File="hkmissle.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+    </CSound>
+    <CSound id="Scout_Attack">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes01.wav" FacialGroup=""/>
+        <AssetArray index="2" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Scout\scout\pscyes03.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="Scout_Explode">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscdth00.wav" Pitch="0.000000,0.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+        <Pitch value="2.000000,3.000000"/>
+        <Volume value="-3.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Scout_Help">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Scout\scout\pscpss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Scout\scout\pscpss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Scout\scout\pscpss03.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Scout\scout\pscpss04.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="Scout_Pissed">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss01.wav" FacialGroup=""/>
+        <AssetArray index="2" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss02.wav" FacialGroup=""/>
+        <AssetArray index="3" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss03.wav" FacialGroup=""/>
+        <AssetArray index="4" File="PC Computer - StarCraft Brood War - Scout\scout\pscpss04.wav" FacialGroup=""/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="Scout_What">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscwht00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Scout\scout\pscwht01.wav" FacialGroup=""/>
+        <AssetArray index="2" File="PC Computer - StarCraft Brood War - Scout\scout\pscwht02.wav" FacialGroup=""/>
+        <AssetArray index="3" File="PC Computer - StarCraft Brood War - Scout\scout\pscwht03.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="Scout_Yes">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes01.wav" FacialGroup=""/>
+        <AssetArray index="2" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes02.wav" FacialGroup=""/>
+        <AssetArray index="3" File="PC Computer - StarCraft Brood War - Scout\scout\pscyes03.wav" FacialGroup=""/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="TassadarAttackTemplar" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utayes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utayes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utayes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utayes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="TassadarPissedTemplar" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utapss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utapss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utapss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utapss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="TassadarWhatTemplar" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utawht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utawht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utawht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Tassadar\tassadar\utawht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="UI_ChatMessageReceived">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="ZealotPissed" parent="ProtossAck">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzepss00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzepss01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzepss02.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ValkyrieWhat" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkWht00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkWht01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkWht02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkWht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="MengskAttack" parent="TerranAck">
+        <AssetArray File="Assets\MengskLines\Mengsk1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk9.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk15.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="RaszagalWhat" parent="TerranAck">
+        <AssetArray File="Assets\RaszagalLines\Raszagal1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal6.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="RaszagalPissed" parent="TerranAck">
+        <AssetArray File="Assets\RaszagalLines\Raszagal9.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal11.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="SJWraith_AttackImpact2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Wraith\Wraith_GroundAttackImpact4.wav"/>
+        <DupeDestroyCount value="3"/>
+        <DupeMuteCount value="1"/>
+        <Pitch value="-3.000000,3.000000"/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+    </CSound>
+    <CSound id="SJWraith_AttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\Raven\Raven_PointDefenseDroneAttackLaunch2.wav" FacialGroup=""/>
+        <DupeDestroyCount value="5"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="4"/>
+        <VolumeRolloffPoints Distance="10.000000"/>
+        <VolumeRolloffPoints Distance="20.000000" Volume="-96.000000"/>
+    </CSound>
+    <CSound id="StukovAttack" parent="TerranAck">
+        <AssetArray File="Assets\StukovLines\Stukov10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov8.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="MengskWhat" parent="TerranAck">
+        <AssetArray File="Assets\MengskLines\Mengsk13.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk13.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk14.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk8.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="MengskPissed" parent="TerranAck">
+        <AssetArray File="Assets\MengskLines\Mengsk14.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk12.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk11.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\MengskLines\Mengsk7.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="OcularSymbiote_DeathExplosion2" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth0.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth1.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth2.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth3.wav"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="OcularSymbiote_DeathExplosion22" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth0.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth1.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth2.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\Egg\Egg_Birth3.wav"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="PoisonousRazorTalonsImpact" parent="Ambience_Object">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UKiFir00.wav" Volume="6.000000,6.000000" FacialGroup=""/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-2.000000,-2.000000"/>
+        <ResourcePriority value="32"/>
+        <Volume value="6.000000,6.000000"/>
+    </CSound>
+    <CSound id="Alert_ProtossAllyUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_ProtossAllysBaseUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_ProtossBaseUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\PAdUpd00.WAV"/>
+    </CSound>
+    <CSound id="Alert_ProtossForcesUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\PAdUpd01.WAV"/>
+    </CSound>
+    <CSound id="Alert_TerranAllyBaseUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_TerranAllyUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_TerranBaseUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\TAdUpd00.WAV"/>
+    </CSound>
+    <CSound id="Alert_TerranForcesUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\TAdUpd01.WAV"/>
+    </CSound>
+    <CSound id="Alert_ZergAllyBaseUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_ZergAllyUnderAttack">
+        <AssetArray index="0" removed="1"/>
+    </CSound>
+    <CSound id="Alert_ZergBaseUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\ZAdUpd00.WAV"/>
+    </CSound>
+    <CSound id="Alert_ZergForcesUnderAttack">
+        <AssetArray index="0" File="Starcraft One Sounds\ZAdUpd01.WAV" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+    </CSound>
+    <CSound id="ArtanisPissed" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patpss05.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ArtanisWhat" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patwht00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patwht01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patwht02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Battlecruiser_GroundAttackLaunch">
+        <Pitch value="-2.250000,0.000000"/>
+        <AssetArray index="0" File="Starcraft One Sounds\LASRHIT3.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="1.500000,1.500000"/>
+    </CSound>
+    <CSound id="DuranWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnWht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnWht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnWht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss00.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="DuranPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss03.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss04.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss05.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss06.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss07.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnPss08.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="EdmundDukeAttack" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\UDTyes00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTyes01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTyes02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ArtanisAttack" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patyes00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patyes01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patyes02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\PC Computer - StarCraft Brood War - Artanis\artanis\patyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="FenixAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufeyes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufeyes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufeyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufeyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="DuranAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnYes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnYes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnYes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Samir Duran Infested\zergduran\ZDnYes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="AncientXelNagaDuranAttackImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact5.wav"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="AncientXelNagaDuranAttackLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <DupeMaximumMethod value="Replace"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="FenixDPissed" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdpss00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdpss01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdpss02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdpss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="FenixDWhat" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdwht00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdwht01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdwht02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="FenixDAttack" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdyes00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdyes01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdyes02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Fenix Dragoon\fenixd\ufdyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="GameMusicRoarofDominion" parent="MUSIC">
+        <AssetArray File="FE Three Houses Roar of Dominion 覇の轟きBGM Metal Remix Cover by Dethraxx [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="GameMusicMeglovania" parent="MUSIC">
+        <AssetArray File="MEGALOVANIA - Undertale METAL Guitar Cover FamilyJules [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="GameMusicTwilightoftheGods" parent="MUSIC">
+        <AssetArray File="Twilight of the Gods - Fire Emblem Echoes Shadows of Valentia [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="DearestHelena" parent="MUSIC">
+        <AssetArray File="StarCraft Brood War Soundtrack - Dearest Helena [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="GameMusicHopesandDreams" parent="MUSIC">
+        <AssetArray File="Models\Undertale - Hopes and Dreams Intense Symphonic Metal Cover [TubeRipper.cc].ogg" Pitch="-1.000000,-1.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="Ghost_AttackImpact2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact5.wav"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="AncientXelNagaRifleImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_SingleBulletAttackImpact5.wav"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="Ghost_AttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <DupeMaximumMethod value="Replace"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="AncientXelNagaRifleLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <DupeMaximumMethod value="Replace"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="Ghost_BunkerAttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch2.wav"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-12.000000,-10.500000"/>
+    </CSound>
+    <CSound id="Ghost_BunkerAttackLaunch3" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch2.wav"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-12.000000,-10.500000"/>
+    </CSound>
+    <CSound id="CripllingRazorTalonsImpact" parent="Ambience_Object">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UKiFir00.wav" Volume="6.000000,6.000000" FacialGroup=""/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-2.000000,-2.000000"/>
+        <ResourcePriority value="32"/>
+        <Volume value="6.000000,6.000000"/>
+    </CSound>
+    <CSound id="QueenClassic_ParasiteImpact2" parent="Spell">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact2.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="QueenClassic_ParasiteImpact22" parent="Spell">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_NeuralParasiteAttackImpact2.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="QueenClassic_ParasiteLaunch2" parent="Spell">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch2.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="QueenClassic_ParasiteLaunch22" parent="Spell">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\Infestor\Infestor_FungalGrowthLaunch2.wav" FacialGroup=""/>
+    </CSound>
+    <CSound id="SIBuilding_ExplosionLarge2" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionLarge9.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge0.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge1.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge2.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge3.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge4.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge5.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge6.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge7.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge8.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionLarge9.wav" Volume="-1.000000,-1.000000" FacialGroup=""/>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-2.000000,2.000000"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="SIBuilding_ExplosionMedium2" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium9.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium4.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium7.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium8.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Terran_BuildingExplosionMedium9.wav" FacialGroup=""/>
+        <DupeDestroyCount value="3"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="3"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-2.000000,2.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="SIRefinery_Ready2" parent="Ready">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\SIRefinery_What01.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIRefinery_What02.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIRefinery_What03.ogg" FacialGroup=""/>
+        <Pitch value="-4.000000,-4.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="SIRefinery_What2" parent="ZergAck">
+        <AssetArray File="Assets\Sounds\SIRefinery_What01.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIRefinery_What02.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIRefinery_What03.ogg" FacialGroup=""/>
+        <Pitch value="-5.000000,-5.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="SITerran_BuildingPlacement2" parent="UI">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\SIBuilding_Placement.wav" FacialGroup=""/>
+        <Mode value="3DWorld"/>
+        <VolumeRolloffPoints Distance="100.000000"/>
+        <VolumeRolloffPoints Distance="1000.000000" Volume="-96.000000"/>
+    </CSound>
+    <CSound id="SITerran_ConstructionWhat2" parent="Build">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\SIBuilding_ConstructionWhat01.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIBuilding_ConstructionWhat02.ogg" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\SIBuilding_ConstructionWhat03.ogg" FacialGroup=""/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="SporeCrawler_AttackImpact2" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact1.wav" Weight="50"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact2.wav" Weight="33"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact3.wav" Weight="25"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact4.wav" Weight="20"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact5.wav" Weight="16"/>
+        <AssetArray File="Assets\Sounds\Zerg\NoxiousTurret\NoxiousTurret_AttackImpact6.wav" Weight="14"/>
+        <DupeDestroyCount value="7"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="7"/>
+        <Pitch value="-2.000000,4.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="SporeCrawler_AttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Zerg"/>
+        <AssetArray File="Assets\Sounds\Zerg\SporeCrawler\SporeCrawler_AttackLaunch0.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\SporeCrawler\SporeCrawler_AttackLaunch1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\SporeCrawler\SporeCrawler_AttackLaunch2.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\SporeCrawler\SporeCrawler_AttackLaunch3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Zerg\SporeCrawler\SporeCrawler_AttackLaunch4.wav" FacialGroup=""/>
+        <DupeDestroyCount value="5"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="5"/>
+        <Pitch value="-2.000000,3.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="DugalleAttack" parent="TerranAck">
+        <AssetArray File="Assets\DugalleLines\Dugalle1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle11.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle12.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle15.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\DugalleLines\Dugalle8.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="RaszagalAttack" parent="TerranAck">
+        <AssetArray File="Assets\RaszagalLines\Raszagal10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal11.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal3.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\RaszagalLines\Raszagal8.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="StukovWhat" parent="TerranAck">
+        <AssetArray File="Assets\StukovLines\Stukov1.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov10.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov11.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov5.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov8.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="StukovPissed" parent="TerranAck">
+        <AssetArray File="Assets\StukovLines\Stukov11.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov12.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov6.wav" FacialGroup=""/>
+        <AssetArray File="Assets\StukovLines\Stukov9.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="2.000000,2.000000"/>
+        <ResourcePriority value="64"/>
+    </CSound>
+    <CSound id="TheInauguration">
+        <AssetArray File="StarCraft - The Inauguration (Arcturus Mengsk Speech) HQ [TubeRipper.cc].ogg" Volume="3.000000,3.000000" FacialGroup=""/>
+        <Flags index="Stream" value="1"/>
+    </CSound>
+    <CSound id="GhostAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghyes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghyes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="GhostPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghpss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghpss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghpss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghpss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="DSR55CanisterAttackImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_05.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_06.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_07.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_08.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Uni_ImpactExplosions_09.wav" FacialGroup=""/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="DSR55CanisterAttackLaunchBunker" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\Ghost\Ghost_AttackLaunch2.wav"/>
+        <DupeMaximumMethod value="Replace"/>
+        <Pitch value="-0.890000,0.840000"/>
+        <Volume value="-12.000000,-10.500000"/>
+    </CSound>
+    <CSound id="DSR55CanisterAttackLaunch2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="2.000000,2.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Pitch value="-1.890000,-0.840000"/>
+        <Volume value="1.200000,1.200000"/>
+    </CSound>
+    <CSound id="Ghost_AttackLaunch">
+        <AssetArray index="0">
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="3.000000,3.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="Ghost_Death">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Ghost\ghost\tghdth00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Ghost\ghost\tghdth01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="Kerrigan_AttackLaunch">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav" Volume="2.000000,2.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="-4.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Marauder_Stimpack">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+    </CSound>
+    <CSound id="GhostWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghwht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghwht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghwht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Ghost\ghost\tghwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Marine_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TMaFir00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <Volume value="-6.000000,-4.000000"/>
+    </CSound>
+    <CSound id="Marine_Death">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth00.wav" Weight="100" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+    </CSound>
+    <CSound id="Marine_StimPackVO">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <Chance value="50"/>
+    </CSound>
+    <CSound id="C21ImpalerGaussAttackLaunch" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\MengskTrooper_Rifle_AttackLaunch_00A.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\MengskTrooper_Rifle_AttackLaunch_01A.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\MengskTrooper_Rifle_AttackLaunch_11A.wav" FacialGroup=""/>
+        <DupeDestroyCount value="6"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="6"/>
+        <Pitch value="2.000000,2.000000"/>
+        <VariationMinimum value="8"/>
+        <Volume value="-14.000000,-11.000000"/>
+    </CSound>
+    <CSound id="C21ImpalerGaussAttackImpact" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_MultipleBulletAttackImpact0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_MultipleBulletAttackImpact1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_MultipleBulletAttackImpact2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_MultipleBulletAttackImpact3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\BulletImpacts\Terran_MultipleBulletAttackImpact4.wav"/>
+        <Pitch value="-1.500000,1.500000"/>
+        <Volume value="-12.000000,-10.000000"/>
+    </CSound>
+    <CSound id="Mojo_GroundAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\BlastGn2.wav" Volume="1.000000,1.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="NovaAttackLaunch">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\TGhFir00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Volume value="-3.000000,-1.000000"/>
+    </CSound>
+    <CSound id="PrimalHydralisk_GroundAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\SpoogHit.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+    </CSound>
+    <CSound id="Primal_Guardian_MineCharge_Impact">
+        <AssetArray index="0" File="Starcraft One Sounds\ZGuHit00.wav"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+    </CSound>
+    <CSound id="Primal_Guardian_MineCharge_Launch">
+        <AssetArray index="0" File="Starcraft One Sounds\ZGuFir00.wav"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="RaynorAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TMaFir00.wav" Volume="2.000000,2.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="SJHyperion_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\LASRHIT3.wav"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <Pitch value="-1.000000,2.000000"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="SiegeBreaker_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TTaFir00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Pitch value="-3.180000,-1.820000"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="SiegeTank_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TTaFir00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="SiegeTank_SiegedAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TTaFi200.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <AssetArray index="9" removed="1"/>
+        <Pitch value="-3.180000,-1.820000"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="TassadarPissedGantrithor" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcpss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcpss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcpss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcpss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="FenixWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufewht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufewht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufewht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufewht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="KerriganNova">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukidth00.wav"/>
+        <Pitch value="0.000000,0.000000"/>
+        <Spread value="0.000000"/>
+        <Volume value="5.000000,5.000000"/>
+    </CSound>
+    <CSound id="KerriganPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukipss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukipss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukipss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukipss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="FenixPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufepss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufepss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufepss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufepss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="KerriganWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiwht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiwht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiwht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="KerriganAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiyes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiyes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukiyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="KerriganX1_Death">
+        <AssetArray index="0">
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\ukidth00.wav"/>
+            <FacialAnim value=""/>
+            <FacialGroup value=""/>
+            <FacialFile value=""/>
+        </AssetArray>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="MarineAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmayes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmayes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmayes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmayes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="MarineWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmawht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmawht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmawht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Marine\marine\tmawht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Marine_Stimpack">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="MissileTurret_Explode2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium0.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium1.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium2.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium3.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium4.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium5.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium6.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium7.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium8.wav" Pitch="-3.000000,3.000000"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium9.wav" Pitch="-3.000000,3.000000"/>
+        <DupeDestroyCount value="5"/>
+    </CSound>
+    <CSound id="PsiDisruptor_What2" parent="Voice">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\PsiDisruptor\PsiDisruptor_What0.wav"/>
+        <Volume value="-5.000000,-5.000000"/>
+    </CSound>
+    <CSound id="Raven_PointDefenseDroneAttackImpact">
+        <AssetArray index="0" File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_05.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_06.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Doodad_DominionEnergyCannon_Launch_07.wav" FacialGroup=""/>
+        <Volume value="3.000000,3.000000"/>
+    </CSound>
+    <CSound id="TassadarWhatGantrithor" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcwht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcwht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcwht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="TassadarAttackGantrithor" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcyes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcyes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Gantrithor\gantrithor\utcyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="TaurenSpaceMarine_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TMaFir00.wav" Volume="1.000000,1.000000" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <AssetArray index="8" removed="1"/>
+        <Volume value="-3.000000,-1.000000"/>
+    </CSound>
+    <CSound id="TaurenSpaceMarine_Explode">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth00.wav" Pitch="0.000000,0.000000" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth01.wav" Pitch="0.000000,0.000000" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="TaurenSpaceMarine_Stimpack">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Marine\marine\tmasti01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <AssetArray index="7" removed="1"/>
+        <Volume value="0.000000,0.000000"/>
+    </CSound>
+    <CSound id="Terran_BuildingPlacementSmall2" parent="UI">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Construction\Terran_BuildingPlacementSmall0.wav"/>
+        <Pitch value="3.000000,3.000000"/>
+        <Volume value="-6.000000,-6.000000"/>
+    </CSound>
+    <CSound id="Terran_ConstructionWhat2" parent="Build">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Construction\Terran_ConstructionWhat0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Construction\Terran_ConstructionWhat1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Construction\Terran_ConstructionWhat2.wav"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="Terran_ExplosionMedium2" parent="Combat">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium0.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium1.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium2.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium3.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium4.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium5.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium6.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium7.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium8.wav"/>
+        <AssetArray File="Assets\Sounds\Terran\SharedEffects\Explosions\Terran_ExplosionMedium9.wav"/>
+        <DupeDestroyCount value="5"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="5"/>
+        <Pitch value="-2.000000,3.000000"/>
+        <Volume value="-5.000000,-3.000000"/>
+    </CSound>
+    <CSound id="UEDIntroTerran4" parent="MUSIC">
+        <AssetArray>
+            <File value="Assets\Music\SC1_Terran4.ogg"/>
+            <Pitch value="-1.000000,-1.000000"/>
+            <Volume value="-1.000000,-1.000000"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <Volume value="0.500000,0.500000"/>
+    </CSound>
+    <CSound id="TransmissionRescueTextTerran">
+        <AssetArray File="TRescue.wav" Volume="4.000000,4.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="TransmissionRescueTextProtoss">
+        <AssetArray File="PRescue.wav" Volume="4.000000,4.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="TransmissionText">
+        <AssetArray File="Transmission.wav" Volume="-2.500000,-2.500000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-2.500000,-2.500000"/>
+    </CSound>
+    <CSound id="TransmissionRescueTextZerg">
+        <AssetArray File="ZRescue.wav" Volume="4.000000,4.000000" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="TransmissionTextSC1Double">
+        <AssetArray File="SC1SC2StarcraftStarCraftStarCraft 2 Incoming MessageTransmission Sound Effect [TubeRipper.cc].ogg" FacialGroup=""/>
+        <Pitch value="-1.000000,-1.000000"/>
+    </CSound>
+    <CSound id="ValkyrieYes" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkYes00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkYes01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkYes02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkYes03.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkYes04.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ValkyriePissed" parent="TerranAck">
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss03.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss04.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\frigate\TVkPss05.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="WraithGroundAttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\TPhFi100.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+    </CSound>
+    <CSound id="Wraith_GroundAttackImpact">
+        <AssetArray index="0" File="Starcraft One Sounds\TPhFi100.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Xelnaga_Vision_Temple_Loop">
+        <Pitch value="-4.000000,0.000000"/>
+        <Volume value="-20.000000,-16.000000"/>
+    </CSound>
+    <CSound id="PerfectPsiBladesImpact" parent="Combat">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzehit00.wav" FacialGroup=""/>
+        <DupeDestroyCount value="4"/>
+        <Pitch value="-2.000000,4.000000"/>
+        <Volume value="-3.000000,-3.000000"/>
+    </CSound>
+    <CSound id="PerfectPsiBladesAttack" parent="Combat">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeatt00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeatt01.wav" FacialGroup=""/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupeMuteCount value="4"/>
+        <DupeThresholdPoints/>
+        <DupeThresholdPoints Count="4" Volume="-3.000000"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-0.890000,1.640000"/>
+        <VariationMinimum value="8"/>
+        <Volume value="-3.670000,-3.670000"/>
+    </CSound>
+    <CSound id="ZealotYes" parent="ProtossAck">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeyes00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeyes01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeyes02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ZealotPurifier_Death">
+        <AssetArray index="0">
+            <TemplateParam value=""/>
+            <File value="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\PC Computer - StarCraft Brood War - Fenix Zealot\fenixz\ufedth00.wav"/>
+            <Weight value="100"/>
+            <FacialGroup value=""/>
+        </AssetArray>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+    </CSound>
+    <CSound id="ZealotWhat" parent="ProtossAck">
+        <EditorCategories value="Race:Terran"/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzewht00.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzewht01.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzewht02.wav" FacialGroup=""/>
+        <AssetArray File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzewht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Zealot_AttackImpact">
+        <AssetArray index="0" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzehit00.wav" FacialGroup=""/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <Pitch value="-2.000000,1.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Zealot_AttackLaunch">
+        <AssetArray index="0" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeatt00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="Starcraft One Sounds\PC Computer - StarCraft Brood War - Frigate\PC _ Computer - StarCraft - Protoss - Zealot\zealot\pzeatt01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <Volume value="-2.000000,-1.500000"/>
+    </CSound>
+    <CSound id="ZeratulAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzeyes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzeyes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzeyes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzeyes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="GameMusicProtoss_SCI">
+        <Pitch value="-1.500000,-1.500000"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="GameMusicTerran_SCI">
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-4.000000,-4.000000"/>
+        <AssetArray index="0" File="StarCraft Terran Theme One [Orchestral] [TubeRipper.cc].ogg"/>
+        <AssetArray index="1" File="StarCraft Terran Theme Two [Orchestral] [TubeRipper.cc].ogg"/>
+        <AssetArray index="2" File="StarCraft - Terran 3 (Mixed Original + Remastered) [TubeRipper.cc].ogg"/>
+        <AssetArray index="3" File="Starcraft Terran Theme 4 (All Instruments Cover) [TubeRipper.cc].ogg"/>
+    </CSound>
+    <CSound id="GameMusicZerg_SCI">
+        <Pitch value="-1.000000,-1.000000"/>
+        <Volume value="-4.000000,-4.000000"/>
+    </CSound>
+    <CSound id="JimRaynorAttack" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urayes00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urayes01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urayes02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urayes03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="EdmundDukePissed" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\UDTPss04.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTpss00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTpss01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTpss02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTpss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="EdmundDukeWhat" parent="TerranAck">
+        <AssetArray File="Assets\Sounds\UDTwht00.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTwht01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTwht02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\UDTwht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="JimRaynorWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urawht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urawht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urawht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urawht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="JimRaynorPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urapss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urapss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urapss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\urapss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="Raynor_Death">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth00.wav" FacialGroup=""/>
+        <AssetArray index="1" File="PC Computer - StarCraft Brood War - Jim Raynor Marine\raynorm\PC Computer - StarCraft Brood War - Marine\marine\tmadth01.wav" FacialGroup=""/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <AssetArray index="5" removed="1"/>
+        <AssetArray index="6" removed="1"/>
+        <Volume value="5.000000,5.000000"/>
+    </CSound>
+    <CSound id="Raynor_Explode">
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="SiegeTank_Explode_Var">
+        <AssetArray index="0" File="Assets\Sounds\UDTDth00.wav"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <Volume value="2.000000,2.000000"/>
+    </CSound>
+    <CSound id="ZeratulWhat" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzewht00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzewht01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzewht02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzewht03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ZeratulPissed" parent="TerranAck">
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzepss00.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzepss01.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzepss02.wav" FacialGroup=""/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Zeratul\zeratul\uzepss03.wav" FacialGroup=""/>
+        <Flags index="Download" value="0"/>
+        <Volume value="1.000000,1.000000"/>
+    </CSound>
+    <CSound id="ZerataiGrandshadowBladeImpact" parent="Combat">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="Assets\Sounds\Tempest_DisintegrationImpact01.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Tempest_DisintegrationImpact02.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Tempest_DisintegrationImpact03.wav" FacialGroup=""/>
+        <AssetArray File="Assets\Sounds\Tempest_DisintegrationImpact04.wav" FacialGroup=""/>
+        <DupeDestroyCount value="4"/>
+        <Pitch value="-2.000000,5.000000"/>
+        <Volume value="-2.000000,-2.000000"/>
+    </CSound>
+    <CSound id="Zeratul_AttackLaunch">
+        <AssetArray index="0" File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UZeFir00.wav"/>
+        <AssetArray index="1" removed="1"/>
+        <AssetArray index="2" removed="1"/>
+        <AssetArray index="3" removed="1"/>
+        <AssetArray index="4" removed="1"/>
+        <Pitch value="-2.000000,-1.000000"/>
+        <Volume value="-2.000000,-1.000000"/>
+    </CSound>
+    <CSound id="ZerataiGrandshadowBladeLaunch" parent="Combat">
+        <EditorCategories value="Race:Protoss"/>
+        <AssetArray File="PC Computer - StarCraft Brood War - Sarah Kerrigan Infested\zergkerri\UZeFir00.wav" FacialGroup=""/>
+        <Flags index="VariationFallback" value="0"/>
+        <DupeDestroyCount value="5"/>
+        <DupeMaximumMethod value="Replace"/>
+        <DupePrioritization value="Oldest"/>
+        <Pitch value="-2.000000,-1.000000"/>
+        <Volume value="3.000000,3.000000"/>
+    </CSound>
+</Catalog>
