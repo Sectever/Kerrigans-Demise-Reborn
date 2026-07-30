@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="AvernusEx1">
+        <CliffSets index="1" value="MoebiusLabCliff1"/>
+        <CliffSets value="MoebiusLabCliff0"/>
+        <CliffSets value="ShakurasTempleCliff1"/>
+    </CTerrain>
+    <CTerrain id="DesertWorld">
+        <BlendTextures index="0" value="AvernusMesh"/>
+        <BlendTextures index="1" value="AvernusMetal"/>
+        <BlendTextures index="2" value="DesertWorld5"/>
+        <BlendTextures index="3" value="DesertWorld6"/>
+        <BlendTextures index="4" value="DesertWorld7"/>
+        <BlendTextures index="5" value="AvernusDirt"/>
+        <BlendTextures index="6" value="MarSaraRocky"/>
+        <BlendTextures index="7" value="MarSaraSand"/>
+    </CTerrain>
+    <CTerrain id="UlnarEx1">
+        <BlendTextures index="0" value="UlnarCracks"/>
+        <BlendTextures index="1" value="UlnarRock"/>
+        <BlendTextures index="2" value="UlnarHull1"/>
+        <BlendTextures index="3" value="UlnarHull2"/>
+        <BlendTextures index="4" value="ShakurasCity6"/>
+        <BlendTextures index="5" value="AvernusDirt"/>
+        <BlendTextures index="6" value="ShakurasStone"/>
+        <BlendTextures index="7" value="KorhalCity3"/>
+    </CTerrain>
+</Catalog>

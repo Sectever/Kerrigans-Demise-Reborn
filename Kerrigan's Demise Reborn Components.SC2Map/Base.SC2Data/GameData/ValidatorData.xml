@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CValidatorUnitCompareBehaviorCount id="CarryingFuelCellPickupUnit"/>
+    <CValidatorUnitCompareBehaviorCount id="CarryingKhalisCrystal">
+        <WhichUnit Value="Caster"/>
+        <Compare value="GT"/>
+        <Behavior value="KhalisCrystalCarrying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorCombine id="CasterIsNotMovingOrStopped">
+        <Type value="And"/>
+        <CombineArray index="1" value="CasterIsStationary"/>
+        <CombineArray index="2" value="CasterNotAttacking"/>
+    </CValidatorCombine>
+    <CValidatorUnitFilters id="CasterIsNotStructure">
+        <WhichUnit Value="Caster"/>
+        <Filters value="-;Structure"/>
+    </CValidatorUnitFilters>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan13">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="13"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan12">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="12"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan20">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="20"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan14">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="14"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan11">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="11"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceLessThan10">
+        <Compare value="LE"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan6">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="6"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorLocationCompareRange id="DistanceIsorLessThan9">
+        <WhichLocation Value="TargetUnit"/>
+        <Compare value="LE"/>
+        <Range value="9"/>
+    </CValidatorLocationCompareRange>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveCerebrateLv1">
+        <Behavior value="EssenceoftheCerebrate"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveDefendingAiur">
+        <Behavior value="DefendingAiurTarget"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv1">
+        <Behavior value="TheSwarmBeckons"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveCerebrateLv2">
+        <Behavior value="EssenceoftheCerebrate3"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveConquererofKoprulu">
+        <Behavior value="ConquerorofKoprulu"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveAnnihilationTactics">
+        <Behavior value="HybridAnnihilation"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv2">
+        <Behavior value="TheSwarmBeckons3"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv3">
+        <Behavior value="TheSwarmBeckons4"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv4">
+        <Behavior value="TheSwarmBeckons5"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv5">
+        <Behavior value="TheSwarmBeckons6"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindLv6">
+        <Behavior value="TheSwarmBeckons7"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveStarBreakerBattleFocus">
+        <Behavior value="BattleFocusT"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveStaroftheTemplar">
+        <Behavior value="StaroftheTemplar2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveCommanderofAiur">
+        <Behavior value="CommanderofAiur"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHavePsiDisruptionRegular">
+        <Behavior value="PsiDisruptionTargetRegular"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveCerebratesProtection">
+        <Behavior value="CerebratesProtection2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveAmbushTactics">
+        <Behavior value="AmbushTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveOvermindsWrath">
+        <Behavior value="WrathoftheOvermind2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveDeepBattleTactics">
+        <Behavior value="DeepBattleTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveDefenseInDepthTactics">
+        <Behavior value="DefenseinDepthTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveManeuverWarfareTactics">
+        <Behavior value="ManeuverWarfareTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveIndomitableWill">
+        <Behavior value="Indomitable"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveDefensiveTactics">
+        <Behavior value="DehakaTyrannozorArmorAuraTarget"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveAggressiveTactics">
+        <Behavior value="AggressiveTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveGuerrillaTactics">
+        <Behavior value="GuerrillaTactics2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHavePsiDisruptionUpgraded">
+        <Behavior value="PsiDisruptionUpgraded"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveShockandAweTactics">
+        <Behavior value="ShockandAweTactics"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveBaneofBlades">
+        <Behavior value="BaneofBlades2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveWilloftheEmperor">
+        <Behavior value="WilloftheEmperor"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="DoesntHaveServantoftheQueen">
+        <Behavior value="ServantoftheQueenAura2"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitType id="FuelCellPickupUnit"/>
+    <CValidatorCombine id="HasForceLowDeathProtoss2">
+        <Type value="And"/>
+        <CombineArray value="IsProtoss"/>
+        <CombineArray value="HasForceLowDeath"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="HasForceLowDeathTerran2">
+        <Type value="And"/>
+        <CombineArray value="IsTerran"/>
+        <CombineArray value="HasForceLowDeath"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="HasForceLowDeathZerg2">
+        <Type value="And"/>
+        <CombineArray value="IsZerg"/>
+        <CombineArray value="HasForceLowDeath"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="HyperionisRecallable">
+        <CombineArray value="IsNotHyperion"/>
+        <CombineArray value="RaynorHasnoOutposts"/>
+    </CValidatorCombine>
+    <CValidatorUnitCompareField id="IsFlying2">
+        <Compare value="GE"/>
+        <Field value="Height"/>
+        <Value value="1"/>
+    </CValidatorUnitCompareField>
+    <CValidatorUnitCompareBehaviorCount id="IsHallucination2">
+        <Value value="1"/>
+        <Behavior value="Hallucination"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="IsNotBeingHealed">
+        <OtherUnit Effect="MercMedicHeal"/>
+        <Behavior value="MercMedicExtraHeal"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareField id="IsNotFlying2">
+        <Compare value="LT"/>
+        <Field value="Height"/>
+        <Value value="1"/>
+    </CValidatorUnitCompareField>
+    <CValidatorCombine id="IsProtossUnit2">
+        <Type value="And"/>
+        <CombineArray value="NotStructure"/>
+        <CombineArray value="IsProtoss"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="IsTerranUnit2">
+        <Type value="And"/>
+        <CombineArray value="NotStructure"/>
+        <CombineArray value="IsTerran"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="IsVortexed2">
+        <CombineArray value="IsVortexdFriendly"/>
+        <CombineArray value="IsVortexdEnemy"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="IsZergUnit2">
+        <Type value="And"/>
+        <CombineArray value="NotStructure"/>
+        <CombineArray value="IsZerg"/>
+    </CValidatorCombine>
+    <CValidatorUnitCompareBehaviorCount id="NoFuelCellPickupUnitCaster"/>
+    <CValidatorUnitCompareBehaviorCount id="NotCrashingIntoZergCapital">
+        <Behavior value="CrashingIntoZergCapital"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitFilters id="NotStructure2">
+        <Filters value="-;Structure"/>
+    </CValidatorUnitFilters>
+    <CValidatorUnitCompareBehaviorCount id="NotUnrecallable">
+        <Behavior value="Unrecallable"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorPlayerRequirement id="RaynorHasnoOutposts">
+        <Value value="RaynorhasnoOutposts"/>
+    </CValidatorPlayerRequirement>
+    <CValidatorUnitType id="TargetUnitisKhalisCrystal">
+        <Value value="KhalisCrystal"/>
+    </CValidatorUnitType>
+    <CValidatorPlayerRequirement id="HaveSymbioteDetection">
+        <Value value="HaveDissectQueenofBlades"/>
+    </CValidatorPlayerRequirement>
+    <CValidatorUnitType id="IsKerrigan">
+        <Value value="K5Kerrigan"/>
+    </CValidatorUnitType>
+    <CValidatorUnitType id="IsNotHyperion">
+        <Value value="SJHyperion"/>
+        <Find value="0"/>
+    </CValidatorUnitType>
+    <CValidatorCombine id="IsSuperMedic">
+        <CombineArray value="IsMedicMerc"/>
+    </CValidatorCombine>
+    <CValidatorUnitCompareBehaviorCount id="IsnotCarryingKhalisCrystal">
+        <WhichUnit Value="Caster"/>
+        <Behavior value="KhalisCrystalCarrying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NoRecallFuelCellPickupUnit2">
+        <Behavior value="KhalisCrystalCarrying"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorCombine id="NotCarryingKhalisOrUrajCrystal"/>
+    <CValidatorUnitCompareBehaviorCount id="NotStasisImmunity">
+        <Compare value="LE"/>
+        <Behavior value="StasisImmunity"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareBehaviorCount id="NotStasised">
+        <Compare value="LE"/>
+        <Behavior value="ArbiterMPStasisField"/>
+    </CValidatorUnitCompareBehaviorCount>
+    <CValidatorUnitCompareVital id="ShieldsGE2500">
+        <Compare value="GE"/>
+        <Value value="2500"/>
+        <Vital value="Shields"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="ShieldsLT2500">
+        <Compare value="LT"/>
+        <Value value="2500"/>
+        <Vital value="Shields"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorLocationEnumArea id="TargetWithin4Range">
+        <AreaArray Compare="LE" Radius="4"/>
+        <SearchFlags index="ExtendByUnitRadius" value="1"/>
+        <LaunchLocation Value="CasterUnit"/>
+    </CValidatorLocationEnumArea>
+    <CValidatorCombine id="UnitTypeEitherUrajorKhalis">
+        <CombineArray value="TargetUnitisKhalisCrystal"/>
+        <CombineArray value="FuelCellPickupUnit"/>
+    </CValidatorCombine>
+    <CValidatorCombine id="UnitisRecallable">
+        <Type value="And"/>
+        <CombineArray value="IsnotObserver"/>
+        <CombineArray value="HyperionisRecallable"/>
+        <CombineArray value="NotUnrecallable"/>
+        <CombineArray value="NotCrashingIntoZergCapital"/>
+    </CValidatorCombine>
+    <CValidatorUnitType id="IsnotObserver">
+        <Value value="SJHyperion"/>
+        <Find value="0"/>
+    </CValidatorUnitType>
+    <CValidatorPlayerRequirement id="ZerglingUpgraded"/>
+    <CValidatorPlayerRequirement id="HaveKextorLoyaltyUpgrade">
+        <ResultNoPlayer value="Error"/>
+        <Find value="1"/>
+        <Value value="LoyaltyofValor"/>
+    </CValidatorPlayerRequirement>
+    <CValidatorUnitFilters id="healSmartTargetFilters">
+        <Filters value="-;Enemy,Structure"/>
+    </CValidatorUnitFilters>
+</Catalog>

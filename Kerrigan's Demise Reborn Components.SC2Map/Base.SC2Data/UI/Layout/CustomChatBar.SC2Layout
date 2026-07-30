@@ -1,0 +1,32 @@
+<Frame type="GameUI" name="GameUI" file="GameUI">
+   <Frame type="Frame" name="UIContainer">
+      <Frame type="Frame" name="FullscreenUpperContainer">
+         <Frame type="ChatBar" name="ChatBar">
+            <Anchor side="Top" relative="$parent/ChatBarAnchorFrame" pos="Min" offset="-25" />
+            <Anchor side="Left" relative="$parent/ChatBarAnchorFrame" pos="Max" offset="1" />
+            <Anchor side="Bottom" relative="$this" pos="Min" offset="0" />
+            <Anchor side="Right" relative="$this" pos="Min" offset="0" />
+            <RenderPriority val="1000" />
+            <StateGroup name="UpdateAnchor">
+               <State name="Visible">
+                  <When type="Property" frame="$this" Visible="True" />
+                  <Action type="SetAnchor" frame="$this" side="Bottom" relative="$this" pos="Max" offset="0" />
+               </State>
+               <State name="Hidden">
+                  <When type="Property" frame="$this" Visible="False" />
+                  <Action type="SetAnchor" frame="$this" side="Bottom" relative="$this" pos="Max" offset="0" />
+               </State>
+            </StateGroup>
+         </Frame>
+         <!-- Chat Bar Positioning -->
+         <Frame type="Frame" name="ChatBarAnchorFrame">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="1025" />
+            <Anchor side="Left" relative="$parent" pos="Mid" offset="-1000" />
+            <Anchor side="Right" relative="$parent" pos="Mid" offset="-330" />
+            <Width val="24" />
+            <Height val="24" />
+            <Visible val="False" />
+         </Frame>
+      </Frame>
+   </Frame>
+</Frame>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="BattlecruiserMercenaryPortrait">
+        <ToDInfoArray index="0">
+            <Variations Command="MoreRed" Sensitivity="2"/>
+            <Variations Command="MoreRed" Sensitivity="2"/>
+        </ToDInfoArray>
+    </CLight>
+    <CLight id="VikingMercenaryFighterPortrait">
+        <ToDInfoArray index="0" Id="VikingMercenaryFighterPortrait" AmbientColor="0.137255,0.000000,0.094118">
+            <Variations Command="MoreRed" Sensitivity="2" Region="Highlight"/>
+            <Variations Command="Darker" Sensitivity="2" Region="Highlight"/>
+            <Variations Command="Darker" Sensitivity="2" Region="Highlight"/>
+            <Variations Command="MoreRed" Sensitivity="1" Region="Highlight"/>
+            <Variations Command="MoreRed" Sensitivity="1"/>
+            <Variations Command="Darker" Sensitivity="2"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

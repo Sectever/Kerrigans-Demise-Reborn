@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+
+    <Frame type="GameUI" name="GameUI" file="GameUI">
+       <Frame type="Frame" name="UIContainer">
+          <Frame type="Frame" name="FullscreenUpperContainer">
+             <Frame type="ChatBar" name="ChatBar">
+                <RenderPriority val="1000" />
+                <Frame type="Label" name="RecipientLabel">
+                    <Visible val="false"/>
+                </Frame>
+                <Frame type="Button" name="EmoticonButton">
+                    <Visible val="false"/>
+                </Frame>
+
+                <Frame type="Image" name="RecipientImage">
+                    <Visible val="false"/>
+                </Frame>
+                <Frame type="EditBox" name="ChatEditBox">
+                    <Anchor side="Left" relative="$parent/RecipientLabel" pos="1.0" offset="-95"/>
+                </Frame>
+
+                <Frame type="CopyClipboardButton" name="ChatToggleAlliance">
+                    <Anchor side="Top" relative="$parent/RecipientImage" pos="0" offset="1"/>
+                    <Anchor side="Right" relative="$parent/EmojiBorderLine" pos="0" offset="-6"/>
+                    <Toggleable val="true"/>
+                    <Toggled val="false"/>
+                    <Width val="32"/>
+                    <Height val="32"/>
+                    <Tooltip val="Press to Copy Discord Link."/>
+                    <Shortcut val="Tab" priority="9999"/>
+                    <ClipboardText val="https://discord.gg/GcwJvKwY"/>
+
+                    <HitTestFrame val="HitTestFrame"/>
+                        <Frame type="Frame" name="HitTestFrame">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Right" relative="$parent" pos="Max" offset="2"/>
+                        
+                    </Frame>
+                    
+                    <Frame type="Image" name="NormalImage">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Max" offset="0"/>
+                        <Anchor side="Right" relative="$parent" pos="Min" offset="2"/>
+                        <Anchor side="Bottom" relative="$parent" pos="Max" offset="0"/>
+                        <Texture val="Assets/Textures/Discord image.dds" layer="0"/>
+                        <Width val="32"/>
+                        <Height val="32"/>
+                    </Frame>
+                    
+                    <Frame type="Image" name="HoverImage">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Max" offset="0"/>
+                        <Anchor side="Right" relative="$parent" pos="Min" offset="2"/>
+                        <Anchor side="Bottom" relative="$parent" pos="Max" offset="0"/>
+                        <Texture val="Assets/Textures/Discord image hover invert.dds" layer="0"/>
+                        <Width val="32"/>
+                        <Height val="32"/>
+                    </Frame>
+                </Frame>
+                <!--
+                <Frame type="Button" name="DiscordClipboardButton">
+                    <Width val="32"/>
+                    <Height val="32"/>
+                    <Anchor side="Top" relative="$parent/RecipientImage" pos="Min" offset="1"/>
+                    <Anchor side="Right" relative="$parent/ChatToggleAlliance" pos="Min" offset="-6"/>
+
+                    <Frame type="Image" name="NormalImage">
+                        <Anchor relative="$parent"/>
+                        <Texture val="Assets/Textures/Discord image.dds" layer="0"/>
+                    </Frame>
+                    
+                    <Frame type="Image" name="HoverImage">
+                        <Anchor relative="$parent"/>
+                        <Texture val="Assets/Textures/Discord image hover invert.dds" layer="0"/>
+                    </Frame>
+                </Frame>
+                -->
+             </Frame>
+          </Frame>
+       </Frame>
+    </Frame>
+</Desc>

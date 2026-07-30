@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRace id="Hybr">
+        <FoodCeiling value="400"/>
+    </CRace>
+    <CRace id="Prot">
+        <FoodCeiling value="400"/>
+    </CRace>
+</Catalog>

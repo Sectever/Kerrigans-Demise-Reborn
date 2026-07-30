@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CGameUI id="Dflt">
+        <MusicArray index="0" value="Music_Silence"/>
+        <MusicArray index="1" removed="1"/>
+        <MusicArray index="2" removed="1"/>
+    </CGameUI>
+</Catalog>
