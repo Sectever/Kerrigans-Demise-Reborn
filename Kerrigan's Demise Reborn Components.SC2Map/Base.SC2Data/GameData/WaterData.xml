@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="ZerusPool">
+        <State index="0" Height="9.200000" Color="0.588235,0.184314,0.674510,0.418000"/>
+    </CWater>
+    <CWater id="ZhakulDas">
+        <!--        <IsLava value="1"/>
+        <LavaModel value="LavaSilver"/> -->
+        <State index="0">
+            <Height value="5.550000"/>
+            <Color value="0.047059,0.411765,0.125490,0.470000"/>
+            <ColorFallOff value="0.379000"/>
+            <UvRate value="0.000632,-0.000775,0.000000,0.000000"/>
+        </State>
+    </CWater>
+</Catalog>

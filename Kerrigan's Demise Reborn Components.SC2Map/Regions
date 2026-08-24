@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="Brontes IV"/>
+        <shape type="rect">
+            <quad value="201.3862,9.285,228.846,40"/>
+        </shape>
+        <shape type="rect">
+            <quad value="192.022,28.0224,213.7907,37.735"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="Province of Scion"/>
+        <shape type="rect">
+            <quad value="180.528,99.199,198.809,130.995"/>
+        </shape>
+        <shape type="rect">
+            <quad value="166.5556,122.4736,184.682,135.179"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.8027,97.4782,197.6975,108.2226"/>
+        </shape>
+    </region>
+    <region id="7">
+        <name value="Shakuras"/>
+        <shape type="rect">
+            <quad value="152.3244,88.096,180.0207,121.9624"/>
+        </shape>
+    </region>
+    <region id="8">
+        <name value="Marches to Aiur"/>
+        <shape type="rect">
+            <quad value="133.6013,71.085,168.8652,86.233"/>
+        </shape>
+        <shape type="diamond">
+            <center value="127.1198,71.4995"/>
+            <width value="27.2397"/>
+            <height value="11.058"/>
+        </shape>
+    </region>
+    <region id="11">
+        <name value="Talematros"/>
+        <shape type="rect">
+            <quad value="133.985,3.9201,147.7202,15.1437"/>
+        </shape>
+    </region>
+    <region id="12">
+        <name value="Uel-Adun"/>
+        <shape type="rect">
+            <quad value="205.0532,112.4494,226.8854,141.064"/>
+        </shape>
+    </region>
+    <region id="14">
+        <name value="Antiga"/>
+        <shape type="rect">
+            <quad value="156.9843,161.2534,179.4665,174.3176"/>
+        </shape>
+        <shape type="rect">
+            <quad value="158.396,168.1445,165.5834,177.7016"/>
+        </shape>
+        <shape type="diamond">
+            <center value="159.981,160.619"/>
+            <width value="7.913"/>
+            <height value="25.466"/>
+        </shape>
+        <shape type="diamond">
+            <center value="163.6093,165.1718"/>
+            <width value="4.2436"/>
+            <height value="23.4055"/>
+        </shape>
+        <shape type="diamond">
+            <center value="173.874,160.5795"/>
+            <width value="11.6181"/>
+            <height value="6.5351"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="158.2607,174.0693,165.7492,177.5874"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="158.0476,176.342,165.4018,179.833"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="164.8955,177.4841,165.7163,178.099"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="177.5256,172.8493"/>
+            <width value="6.6894"/>
+            <height value="12.8054"/>
+        </shape>
+    </region>
+    <region id="22">
+        <name value="Cerebrate Kasz"/>
+        <shape type="diamond">
+            <center value="47.789,197.1567"/>
+            <width value="28.571"/>
+            <height value="11.9357"/>
+        </shape>
+        <shape type="diamond">
+            <center value="53.0913,177.6206"/>
+            <width value="32.1032"/>
+            <height value="24.1511"/>
+        </shape>
+        <shape type="diamond">
+            <center value="63.4584,169.3935"/>
+            <width value="11.0678"/>
+            <height value="3.6845"/>
+        </shape>
+        <shape type="rect">
+            <quad value="33.4438,174.5751,43.84,191.531"/>
+        </shape>
+    </region>
+    <region id="33">
+        <name value="Khor-Shakal"/>
+        <shape type="rect">
+            <quad value="0.253,93.2204,34.8425,114.7741"/>
+        </shape>
+    </region>
+    <region id="34">
+        <name value="Raider Outpost (Ulaan)"/>
+        <shape type="rect">
+            <quad value="1.6391,77.7541,18.0512,90.8706"/>
+        </shape>
+    </region>
+    <region id="35">
+        <name value="Ulaan Moonbase"/>
+        <shape type="rect">
+            <quad value="3.985,56.051,28.4685,75.1005"/>
+        </shape>
+        <shape type="rect">
+            <quad value="19.8195,73.7912,25.4968,81.944"/>
+        </shape>
+        <shape type="rect">
+            <quad value="21.5473,75.636,31.7062,92.0424"/>
+        </shape>
+        <shape type="diamond">
+            <center value="29.4001,76.7138"/>
+            <width value="10.0437"/>
+            <height value="6.39"/>
+        </shape>
+    </region>
+    <region id="38">
+        <name value="North Statue"/>
+        <shape type="diamond">
+            <center value="46.5117,64.0998"/>
+            <width value="12.3776"/>
+            <height value="25.3078"/>
+        </shape>
+    </region>
+    <region id="39">
+        <name value="Xel&apos;naga Worldship"/>
+        <shape type="diamond">
+            <center value="53.236,41.844"/>
+            <width value="12.1816"/>
+            <height value="23.345"/>
+        </shape>
+        <shape type="diamond">
+            <center value="46.406,36.8015"/>
+            <width value="6.8513"/>
+            <height value="11.7573"/>
+        </shape>
+    </region>
+    <region id="41">
+        <name value="East Statue"/>
+        <shape type="rect">
+            <quad value="60.5461,13.84,76.2443,33.6166"/>
+        </shape>
+    </region>
+    <region id="55">
+        <name value="Char Aleph Platform"/>
+        <shape type="diamond">
+            <center value="85.0974,114.8352"/>
+            <width value="21.887"/>
+            <height value="28.1081"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="82.113,96.6408,89.7978,102.0266"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="67.3886,114.047,70.7875,120.7541"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="79.2348,129.3571,86.1643,133.2573"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="96.7067,108.5373,103.102,119.3017"/>
+        </shape>
+    </region>
+    <region id="60">
+        <name value="Onoru Sigma"/>
+        <shape type="diamond">
+            <center value="120.1584,167.9587"/>
+            <width value="23.265"/>
+            <height value="22.5222"/>
+        </shape>
+    </region>
+    <region id="61">
+        <name value="Satellite Outer"/>
+        <shape type="diamond">
+            <center value="151.4553,144.6425"/>
+            <width value="15.126"/>
+            <height value="35.2502"/>
+        </shape>
+    </region>
+    <region id="63">
+        <name value="Kerrigan&apos;s Throne"/>
+        <shape type="rect">
+            <quad value="36.2883,213.1418,51.3916,231.4003"/>
+        </shape>
+    </region>
+    <region id="64">
+        <name value="Hyperion"/>
+        <shape type="rect">
+            <quad value="2.9018,192.567,33.1596,228.9343"/>
+        </shape>
+    </region>
+    <region id="65">
+        <name value="Satellite Inner"/>
+        <shape type="rect">
+            <quad value="4.9216,164.7465,28.7082,188.8454"/>
+        </shape>
+    </region>
+    <region id="67">
+        <name value="Alvacada"/>
+        <shape type="rect">
+            <quad value="169.1752,197.7385,220.742,230.6582"/>
+        </shape>
+        <shape type="rect">
+            <quad value="180.112,175.1196,191.7963,185.9223"/>
+        </shape>
+        <shape type="rect">
+            <quad value="173.6357,180.2275,180.4946,194.1821"/>
+        </shape>
+        <shape type="diamond">
+            <center value="183.0126,189.8635"/>
+            <width value="7.5031"/>
+            <height value="17.5046"/>
+        </shape>
+        <shape type="rect">
+            <quad value="179.755,185.361,198.015,202.005"/>
+        </shape>
+        <shape type="rect">
+            <quad value="187.7072,182.777,196.4072,187.448"/>
+        </shape>
+        <shape type="diamond">
+            <center value="199.2495,180.5512"/>
+            <width value="3.8527"/>
+            <height value="11.7814"/>
+        </shape>
+        <shape type="rect">
+            <quad value="196.8002,180.3327,202.1606,203.616"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="180.5146,175.3115"/>
+            <width value="2.2978"/>
+            <height value="5.9057"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="174.5468,181.1154"/>
+            <width value="2.8671"/>
+            <height value="5.932"/>
+        </shape>
+        <shape type="diamond">
+            <center value="204.1857,193.584"/>
+            <width value="23.2031"/>
+            <height value="10.2524"/>
+        </shape>
+        <shape type="rect">
+            <quad value="208.3847,190.5485,217.7626,198.975"/>
+        </shape>
+        <shape type="rect">
+            <quad value="219.669,203.2805,224.8732,214.0935"/>
+        </shape>
+    </region>
+    <region id="20">
+        <name value="Raider Outpost (Korhal)"/>
+        <shape type="diamond">
+            <center value="106.6591,191.938"/>
+            <width value="11.8432"/>
+            <height value="7.1972"/>
+        </shape>
+        <shape type="diamond">
+            <center value="102.0146,187.6435"/>
+            <width value="6.499"/>
+            <height value="6.661"/>
+        </shape>
+    </region>
+    <region id="21">
+        <name value="Korhal"/>
+        <shape type="diamond">
+            <center value="85.0678,183.965"/>
+            <width value="19.007"/>
+            <height value="29.0676"/>
+        </shape>
+        <shape type="diamond">
+            <center value="74.171,202.2294"/>
+            <width value="16.8723"/>
+            <height value="11.7233"/>
+        </shape>
+        <shape type="diamond">
+            <center value="67.4665,220.6762"/>
+            <width value="21.4204"/>
+            <height value="10.6042"/>
+        </shape>
+        <shape type="diamond">
+            <center value="70.951,217.7861"/>
+            <width value="20.075"/>
+            <height value="20.1232"/>
+        </shape>
+        <shape type="diamond">
+            <center value="88.5598,203.8413"/>
+            <width value="16.3515"/>
+            <height value="26.022"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.8212,210.2482,92.4904,232"/>
+        </shape>
+        <shape type="rect">
+            <quad value="89.7475,211.8771,101.1413,232"/>
+        </shape>
+        <shape type="rect">
+            <quad value="92.9277,202.1208,107.7587,217.1281"/>
+        </shape>
+        <shape type="rect">
+            <quad value="104.0532,211.183,113.4902,225.5297"/>
+        </shape>
+        <shape type="rect">
+            <quad value="102.1853,200.8715,109.6462,208.8247"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.2492,200.504"/>
+            <width value="17.1938"/>
+            <height value="11.2714"/>
+        </shape>
+        <shape type="rect">
+            <quad value="72.3288,192.6806,81.4846,201.188"/>
+        </shape>
+        <shape type="rect">
+            <quad value="72.046,189.9738,75.821,196.0881"/>
+        </shape>
+        <shape type="diamond">
+            <center value="63.1533,208.6638"/>
+            <width value="5.4841"/>
+            <height value="7.4167"/>
+        </shape>
+        <shape type="diamond">
+            <center value="100.3283,196.8156"/>
+            <width value="20.663"/>
+            <height value="8.7214"/>
+        </shape>
+        <shape type="diamond">
+            <center value="98.3254,185.1386"/>
+            <width value="2.314"/>
+            <height value="9.9792"/>
+        </shape>
+        <shape type="diamond">
+            <center value="109.5317,199.713"/>
+            <width value="3.2578"/>
+            <height value="6.7194"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.132,221.6591"/>
+            <width value="9.8061"/>
+            <height value="13.9685"/>
+        </shape>
+        <shape type="rect">
+            <quad value="105.542,202.5461,110.2878,213.2087"/>
+        </shape>
+        <shape type="diamond">
+            <center value="110.6203,210.0976"/>
+            <width value="5.88"/>
+            <height value="2.2756"/>
+        </shape>
+        <shape type="diamond">
+            <center value="66.3981,203.2253"/>
+            <width value="8.8886"/>
+            <height value="6.1994"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.8178,201.3801,66.7814,209.5456"/>
+        </shape>
+        <shape type="rect">
+            <quad value="58.737,209.1428,63.0424,214.726"/>
+        </shape>
+        <shape type="rect">
+            <quad value="70.716,223.5703,79.5498,232"/>
+        </shape>
+    </region>
+    <region id="13">
+        <name value="Antioch"/>
+        <shape type="rect">
+            <quad value="169.2285,136.9094,182.217,152.397"/>
+        </shape>
+        <shape type="rect">
+            <quad value="180.0986,143.4841,189.2194,153.5595"/>
+        </shape>
+        <shape type="rect">
+            <quad value="178.607,144.6738,194.9692,161.6914"/>
+        </shape>
+        <shape type="diamond">
+            <center value="176.2456,152.9272"/>
+            <width value="13.1921"/>
+            <height value="7.6242"/>
+        </shape>
+        <shape type="rect">
+            <quad value="169.4272,136.089,181.9084,142.0312"/>
+        </shape>
+    </region>
+    <region id="15">
+        <name value="Tarsonis Hill"/>
+        <shape type="diamond">
+            <center value="149.403,175.5703"/>
+            <width value="19.269"/>
+            <height value="10.1157"/>
+        </shape>
+        <shape type="diamond">
+            <center value="144.0466,183.3098"/>
+            <width value="19.4558"/>
+            <height value="12.2336"/>
+        </shape>
+        <shape type="diamond">
+            <center value="135.7797,178.5266"/>
+            <width value="8.3796"/>
+            <height value="5.6281"/>
+        </shape>
+    </region>
+    <region id="16">
+        <name value="Tarsonis"/>
+        <shape type="diamond">
+            <center value="158.4467,193.2702"/>
+            <width value="13.338"/>
+            <height value="14.9233"/>
+        </shape>
+        <shape type="rect">
+            <quad value="150.3303,194.862,164.2292,213.251"/>
+        </shape>
+        <shape type="rect">
+            <quad value="161.216,204.8737,167.1132,211.9726"/>
+        </shape>
+        <shape type="rect">
+            <quad value="144.2167,205.1323,150.6481,214.767"/>
+        </shape>
+        <shape type="rect">
+            <quad value="146.6018,212.3583,162.653,224.5578"/>
+        </shape>
+        <shape type="diamond">
+            <center value="165.4042,213.545"/>
+            <width value="4.1196"/>
+            <height value="2.7185"/>
+        </shape>
+    </region>
+    <region id="17">
+        <name value="Mar Sara"/>
+        <shape type="rect">
+            <quad value="117.8813,189.572,130.0834,204.3188"/>
+        </shape>
+        <shape type="rect">
+            <quad value="123.7248,201.7631,136.9841,221.4165"/>
+        </shape>
+        <shape type="rect">
+            <quad value="117.268,214.0173,125.0595,224.03"/>
+        </shape>
+        <shape type="rect">
+            <quad value="134.2136,215.5932,141.9338,224.0007"/>
+        </shape>
+        <shape type="diamond">
+            <center value="122.925,215.2136"/>
+            <width value="5.9758"/>
+            <height value="9.592"/>
+        </shape>
+        <shape type="diamond">
+            <center value="132.6928,220.1108"/>
+            <width value="7.921"/>
+            <height value="2.6635"/>
+        </shape>
+        <shape type="diamond">
+            <center value="125.7673,220.4882"/>
+            <width value="2.7912"/>
+            <height value="7.7741"/>
+        </shape>
+        <shape type="diamond">
+            <center value="136.758,213.8146"/>
+            <width value="8.514"/>
+            <height value="3.3403"/>
+        </shape>
+        <shape type="diamond">
+            <center value="131.6945,199.7875"/>
+            <width value="14.6928"/>
+            <height value="7.1904"/>
+        </shape>
+        <shape type="diamond">
+            <center value="123.9533,204.4448"/>
+            <width value="7.1682"/>
+            <height value="2.5234"/>
+        </shape>
+    </region>
+    <region id="18">
+        <name value="Tiamat"/>
+        <shape type="diamond">
+            <center value="49.5754,145.5175"/>
+            <width value="16.8251"/>
+            <height value="21.7341"/>
+        </shape>
+        <shape type="rect">
+            <quad value="36.724,148.611,42.918,164.8178"/>
+        </shape>
+        <shape type="rect">
+            <quad value="39.393,164.2387,42.3747,167.04"/>
+        </shape>
+        <shape type="diamond">
+            <center value="43.358,158.4157"/>
+            <width value="8.4968"/>
+            <height value="11.4353"/>
+        </shape>
+        <shape type="diamond">
+            <center value="60.5207,139.6098"/>
+            <width value="16.3483"/>
+            <height value="5.5021"/>
+        </shape>
+        <shape type="diamond">
+            <center value="69.0546,145.3586"/>
+            <width value="14.3867"/>
+            <height value="8.5024"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.882,137.2316,66.9987,141.0097"/>
+        </shape>
+        <shape type="diamond">
+            <center value="80.975,155.2155"/>
+            <width value="15.9882"/>
+            <height value="8.8471"/>
+        </shape>
+        <shape type="diamond">
+            <center value="75.434,157.871"/>
+            <width value="12.8537"/>
+            <height value="10.6174"/>
+        </shape>
+        <shape type="rect">
+            <quad value="73.2897,146.555,78.262,151.1174"/>
+        </shape>
+        <shape type="diamond">
+            <center value="66.6337,157.2382"/>
+            <width value="25.1008"/>
+            <height value="12.4934"/>
+        </shape>
+        <shape type="rect">
+            <quad value="75.7031,158.5612,80.5715,166.7224"/>
+        </shape>
+        <shape type="diamond">
+            <center value="69.5053,172.174"/>
+            <width value="2.8867"/>
+            <height value="4.849"/>
+        </shape>
+        <shape type="diamond">
+            <center value="56.3386,158.747"/>
+            <width value="14.067"/>
+            <height value="7.0563"/>
+        </shape>
+        <shape type="diamond">
+            <center value="66.1572,166.3686"/>
+            <width value="10.6333"/>
+            <height value="4.43"/>
+        </shape>
+    </region>
+    <region id="29">
+        <name value="Pool of the Abyss"/>
+        <shape type="diamond">
+            <center value="37.301,126.0803"/>
+            <width value="19.4787"/>
+            <height value="17.4638"/>
+        </shape>
+        <shape type="diamond">
+            <center value="29.3632,136.357"/>
+            <width value="13.985"/>
+            <height value="7.9946"/>
+        </shape>
+        <shape type="diamond">
+            <center value="27.3464,146.4833"/>
+            <width value="16.27"/>
+            <height value="12.1738"/>
+        </shape>
+        <shape type="diamond">
+            <center value="32.7246,134.9404"/>
+            <width value="12.3933"/>
+            <height value="7.7077"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="24.333,121.5837,29.2846,129.4094"/>
+        </shape>
+        <shape type="rect">
+            <quad value="22.978,130.1086,28.6506,140.3381"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="21.6213,132.511,22.9855,136.0976"/>
+        </shape>
+    </region>
+    <region id="19">
+        <name value="Bhekar Ro"/>
+        <shape type="rect">
+            <quad value="0.6972,115.325,20.962,134.6503"/>
+        </shape>
+        <shape type="rect">
+            <quad value="13.9484,132.0092,21.734,140.3845"/>
+        </shape>
+        <shape type="rect">
+            <quad value="17.305,116.1232,23.6735,129.316"/>
+        </shape>
+        <shape type="rect">
+            <quad value="16.18,128.3066,21.8417,134.082"/>
+        </shape>
+        <shape type="diamond">
+            <center value="21.4326,129.3691"/>
+            <width value="3.0017"/>
+            <height value="3.5427"/>
+        </shape>
+        <shape type="diamond">
+            <center value="14.773,135.2395"/>
+            <width value="6.3151"/>
+            <height value="3.3188"/>
+        </shape>
+        <shape type="diamond">
+            <center value="15.2092,138.5954"/>
+            <width value="4.4572"/>
+            <height value="3.7697"/>
+        </shape>
+        <shape type="circle">
+            <center value="7.9145,144.3383"/>
+            <radius value="1.7106"/>
+        </shape>
+        <shape type="circle">
+            <center value="3.7075,146.32"/>
+            <radius value="2.2258"/>
+        </shape>
+    </region>
+    <region id="23">
+        <name value="Hybrid Worlds"/>
+        <shape type="rect">
+            <quad value="2.3388,2.541,36.6474,35.017"/>
+        </shape>
+        <shape type="rect">
+            <quad value="34.7048,5.0908,60.505,32.7724"/>
+        </shape>
+        <shape type="diamond">
+            <center value="48.205,37.0097"/>
+            <width value="14.407"/>
+            <height value="25.2517"/>
+        </shape>
+        <shape type="diamond">
+            <center value="54.7868,44.2036"/>
+            <width value="5.6235"/>
+            <height value="22.492"/>
+        </shape>
+        <shape type="diamond">
+            <center value="22.4157,36.0998"/>
+            <width value="22.4033"/>
+            <height value="29.918"/>
+        </shape>
+        <shape type="diamond">
+            <center value="35.667,43.9714"/>
+            <width value="10.1215"/>
+            <height value="23.0351"/>
+        </shape>
+        <shape type="rect">
+            <quad value="19.4702,46.9897,30.7644,54.2197"/>
+        </shape>
+        <shape type="diamond">
+            <center value="4.577,35.553"/>
+            <width value="3.9643"/>
+            <height value="5.382"/>
+        </shape>
+        <shape type="rect">
+            <quad value="0,2.8522,4.6972,33.4262"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="Valley of Ancients"/>
+        <shape type="rect">
+            <quad value="100.9638,0.0817,122.6472,24.271"/>
+        </shape>
+        <shape type="diamond">
+            <center value="107.8,21.1176"/>
+            <width value="15.3718"/>
+            <height value="16.299"/>
+        </shape>
+        <shape type="diamond">
+            <center value="104.035,32.7497"/>
+            <width value="19.416"/>
+            <height value="6.0815"/>
+        </shape>
+        <shape type="rect">
+            <quad value="107.141,22.9062,122.7575,32.5908"/>
+        </shape>
+        <shape type="diamond">
+            <center value="114.7761,31.8408"/>
+            <width value="11.1982"/>
+            <height value="10.7641"/>
+        </shape>
+        <shape type="rect">
+            <quad value="119.511,23.0876,124.243,32.0217"/>
+        </shape>
+        <shape type="rect">
+            <quad value="108.5187,33.6926,114.9807,39.683"/>
+        </shape>
+    </region>
+    <region id="24">
+        <name value="Khyrador/Braxis"/>
+        <shape type="diamond">
+            <center value="150.295,38.0686"/>
+            <width value="14.5976"/>
+            <height value="27.5634"/>
+        </shape>
+        <shape type="diamond">
+            <center value="154.2236,42.8371"/>
+            <width value="7.1435"/>
+            <height value="13.46"/>
+        </shape>
+        <shape type="diamond">
+            <center value="145.635,32.4743"/>
+            <width value="4.399"/>
+            <height value="14.8408"/>
+        </shape>
+        <shape type="diamond">
+            <center value="140.2368,34.8767"/>
+            <width value="6.7717"/>
+            <height value="7.7951"/>
+        </shape>
+        <shape type="rect">
+            <quad value="156.4794,21.2453,169.5571,30.8537"/>
+        </shape>
+        <shape type="diamond">
+            <center value="173.2224,30.857"/>
+            <width value="16.4384"/>
+            <height value="8.4196"/>
+        </shape>
+        <shape type="rect">
+            <quad value="135.6613,35.3547,140.015,43.2692"/>
+        </shape>
+        <shape type="rect">
+            <quad value="172.7644,34.6257,177.0361,40.9936"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Aiur"/>
+        <shape type="rect">
+            <quad value="199.5817,84.6105,227.188,104.067"/>
+        </shape>
+        <shape type="rect">
+            <quad value="195.8044,66.8591,214.9526,91.6323"/>
+        </shape>
+        <shape type="rect">
+            <quad value="208.778,75.5541,217.0275,86.931"/>
+        </shape>
+        <shape type="diamond">
+            <center value="217.4997,84.162"/>
+            <width value="9.2875"/>
+            <height value="7.9877"/>
+        </shape>
+        <shape type="rect">
+            <quad value="200.4875,48.4875,222.0871,68.2636"/>
+        </shape>
+        <shape type="diamond">
+            <center value="213.7263,69.1674"/>
+            <width value="10.324"/>
+            <height value="12.5932"/>
+        </shape>
+        <shape type="rect">
+            <quad value="211.4284,72.8203,216.6687,78.592"/>
+        </shape>
+        <shape type="rect">
+            <quad value="200.4567,43.0322,219.041,56.4267"/>
+        </shape>
+        <shape type="rect">
+            <quad value="182.1257,49.5476,201.927,69.1523"/>
+        </shape>
+        <shape type="diamond">
+            <center value="197.1547,51.142"/>
+            <width value="5.9592"/>
+            <height value="15.6503"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.5461,67.9184,196.3325,79.209"/>
+        </shape>
+        <shape type="diamond">
+            <center value="194.41,80.3591"/>
+            <width value="16.1494"/>
+            <height value="9.8308"/>
+        </shape>
+        <shape type="rect">
+            <quad value="175.0361,42.09,180.4736,47.309"/>
+        </shape>
+        <shape type="rect">
+            <quad value="168.7277,64.3605,185.04,85.7253"/>
+        </shape>
+        <shape type="rect">
+            <quad value="183.168,75.3354,192.554,85.9536"/>
+        </shape>
+        <shape type="rect">
+            <quad value="219.6367,48.6208,231.925,61.4433"/>
+        </shape>
+        <shape type="rect">
+            <quad value="216.8251,63.7192,232,79.7978"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Raider Outpost (Aiur)"/>
+        <shape type="diamond">
+            <center value="166.0292,52.3247"/>
+            <width value="9.9611"/>
+            <height value="17.5397"/>
+        </shape>
+        <shape type="diamond">
+            <center value="169.2387,57.8403"/>
+            <width value="3.14"/>
+            <height value="15.7023"/>
+        </shape>
+        <shape type="diamond">
+            <center value="172.3452,59.0473"/>
+            <width value="4.0493"/>
+            <height value="10.742"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="Overmind"/>
+        <shape type="diamond">
+            <center value="112.2885,94.4897"/>
+            <width value="13.5754"/>
+            <height value="18.1213"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.5383,96.541,111.4257,107.8618"/>
+        </shape>
+        <shape type="diamond">
+            <center value="107.3813,107.8706"/>
+            <width value="8.2644"/>
+            <height value="8.0622"/>
+        </shape>
+        <shape type="diamond">
+            <center value="109.514,114.8771"/>
+            <width value="4.8935"/>
+            <height value="14.67"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.4165,107.7536,108.2402,114.357"/>
+        </shape>
+        <shape type="diamond">
+            <center value="105.4233,114.5083"/>
+            <width value="5.7575"/>
+            <height value="5.2536"/>
+        </shape>
+        <shape type="rect">
+            <quad value="101.9025,114.7844,105.9826,118.3254"/>
+        </shape>
+        <shape type="diamond">
+            <center value="126.3137,88.4577"/>
+            <width value="19.6594"/>
+            <height value="11.307"/>
+        </shape>
+        <shape type="diamond">
+            <center value="117.1584,84.0051"/>
+            <width value="4.9685"/>
+            <height value="9.6267"/>
+        </shape>
+        <shape type="diamond">
+            <center value="126.039,100.0737"/>
+            <width value="16.4572"/>
+            <height value="6.5661"/>
+        </shape>
+        <shape type="rect">
+            <quad value="128.1965,91.5041,136.3867,103.8842"/>
+        </shape>
+        <shape type="diamond">
+            <center value="118.4284,108.1093"/>
+            <width value="14.8571"/>
+            <height value="15.7531"/>
+        </shape>
+        <shape type="rect">
+            <quad value="106.336,110.2795,118.678,119.2541"/>
+        </shape>
+        <shape type="rect">
+            <quad value="98.6423,103.9443,101.7915,115.4057"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.7001,115.828"/>
+            <width value="4.978"/>
+            <height value="3.2314"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.6948,118.4658,118.0136,132.7177"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="115.8183,131.7861"/>
+            <width value="4.2761"/>
+            <height value="10.8767"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="106.5273,131.3942"/>
+            <width value="12.7287"/>
+            <height value="5.8342"/>
+        </shape>
+    </region>
+    <region id="6">
+        <name value="Omega Hive"/>
+        <shape type="diamond">
+            <center value="127.3591,114.0122"/>
+            <width value="6.1313"/>
+            <height value="23.3461"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132.2614,108.1843,138.4252,123.6076"/>
+        </shape>
+        <shape type="rect">
+            <quad value="132.2626,109.9812,140.7531,125.826"/>
+        </shape>
+        <shape type="diamond">
+            <center value="130.455,122.919"/>
+            <width value="10.6691"/>
+            <height value="15.365"/>
+        </shape>
+        <shape type="diamond">
+            <center value="125.0971,127.4064"/>
+            <width value="12.883"/>
+            <height value="2.884"/>
+        </shape>
+        <shape type="diamond">
+            <center value="133.4733,128.1625"/>
+            <width value="6.263"/>
+            <height value="14.208"/>
+        </shape>
+        <shape type="diamond">
+            <center value="128.0754,119.8784"/>
+            <width value="5.1503"/>
+            <height value="12.8857"/>
+        </shape>
+        <shape type="diamond">
+            <center value="122.807,134.2714"/>
+            <width value="18.0114"/>
+            <height value="13.1091"/>
+        </shape>
+        <shape type="diamond">
+            <center value="129.2683,141.93"/>
+            <width value="3.4562"/>
+            <height value="10.711"/>
+        </shape>
+    </region>
+    <region id="25">
+        <name value="Alpha Draconis"/>
+        <shape type="diamond">
+            <center value="108.5986,139.3515"/>
+            <width value="26.6882"/>
+            <height value="15.174"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.788,139.9206,101.9714,152.996"/>
+        </shape>
+        <shape type="diamond">
+            <center value="95.9484,154.18"/>
+            <width value="8.6105"/>
+            <height value="5.543"/>
+        </shape>
+        <shape type="diamond">
+            <center value="101.6147,148.8962"/>
+            <width value="17.161"/>
+            <height value="11.9807"/>
+        </shape>
+        <shape type="rect">
+            <quad value="97.4772,155.1467,102.036,159.1613"/>
+        </shape>
+        <shape type="rect">
+            <quad value="94.0712,135.1506,97.2255,141.073"/>
+        </shape>
+        <shape type="rect">
+            <quad value="96.0417,137.6171,101.5607,141.341"/>
+        </shape>
+        <shape type="diamond">
+            <center value="93.3251,139.7517"/>
+            <width value="1.6323"/>
+            <height value="2.2414"/>
+        </shape>
+    </region>
+    <region id="26">
+        <name value="Raider Outpost (Char)"/>
+        <shape type="rect">
+            <quad value="90.779,142.9252,106.9482,153.108"/>
+        </shape>
+        <shape type="diamond">
+            <center value="97.5505,153.2307"/>
+            <width value="7.8427"/>
+            <height value="7.834"/>
+        </shape>
+        <shape type="diamond">
+            <center value="106.6396,153.1577"/>
+            <width value="3.6677"/>
+            <height value="12.9636"/>
+        </shape>
+        <shape type="diamond">
+            <center value="106.7714,147.7783"/>
+            <width value="6.613"/>
+            <height value="5.7314"/>
+        </shape>
+        <shape type="rect">
+            <quad value="97.2531,151.7724,104.268,159.116"/>
+        </shape>
+    </region>
+    <region id="27">
+        <name value="Kerrigan&apos;s Palace"/>
+        <shape type="diamond">
+            <center value="61.4521,124.0541"/>
+            <width value="23.0273"/>
+            <height value="5.351"/>
+        </shape>
+        <shape type="diamond">
+            <center value="56.8735,122.8842"/>
+            <width value="19.3066"/>
+            <height value="5.08"/>
+        </shape>
+        <shape type="diamond">
+            <center value="52.417,122.5532"/>
+            <width value="19.919"/>
+            <height value="4.4433"/>
+        </shape>
+        <shape type="rect">
+            <quad value="41.3781,88.2583,47.693,117.264"/>
+        </shape>
+        <shape type="rect">
+            <quad value="43.1276,80.4326,48.1127,88.515"/>
+        </shape>
+        <shape type="diamond">
+            <center value="49.6313,77.4958"/>
+            <width value="6.8557"/>
+            <height value="15.1906"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.5515,75.6096,55.9494,102.8361"/>
+        </shape>
+        <shape type="rect">
+            <quad value="46.3474,100.2026,56.0693,116.7365"/>
+        </shape>
+        <shape type="diamond">
+            <center value="61.807,112.6914"/>
+            <width value="11.6511"/>
+            <height value="14.1018"/>
+        </shape>
+        <shape type="diamond">
+            <center value="68.3325,104.1921"/>
+            <width value="9.173"/>
+            <height value="13.2976"/>
+        </shape>
+        <shape type="rect">
+            <quad value="52.364,82.9113,61.3452,113.471"/>
+        </shape>
+        <shape type="diamond">
+            <center value="63.2343,89.4626"/>
+            <width value="9.2592"/>
+            <height value="7.2507"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.4206,89.9394,66.8024,106.1645"/>
+        </shape>
+        <shape type="diamond">
+            <center value="65.2807,96.269"/>
+            <width value="6.2504"/>
+            <height value="5.8874"/>
+        </shape>
+        <shape type="rect">
+            <quad value="62.1923,90.7246,68.2988,98.2724"/>
+        </shape>
+        <shape type="rect">
+            <quad value="67.118,106.802,71.1215,111.859"/>
+        </shape>
+        <shape type="rect">
+            <quad value="60.6835,113.6257,68.568,129.5546"/>
+        </shape>
+        <shape type="diamond">
+            <center value="42.969,88.449"/>
+            <width value="2.5925"/>
+            <height value="2.786"/>
+        </shape>
+    </region>
+    <region id="28">
+        <name value="Final Threshold"/>
+        <shape type="rect">
+            <quad value="72.9338,85.3952,82.253,98.0673"/>
+        </shape>
+        <shape type="diamond">
+            <center value="71.9782,93.9477"/>
+            <width value="5.0632"/>
+            <height value="5.616"/>
+        </shape>
+        <shape type="rect">
+            <quad value="69.4487,84.9523,74.0415,93.9555"/>
+        </shape>
+        <shape type="rect">
+            <quad value="77.7812,93.465,88.4147,101.903"/>
+        </shape>
+        <shape type="diamond">
+            <center value="76.8757,98.4577"/>
+            <width value="6.4174"/>
+            <height value="5.587"/>
+        </shape>
+        <shape type="rect">
+            <quad value="86.182,93.8386,91.976,99.8652"/>
+        </shape>
+        <shape type="diamond">
+            <center value="83.0407,93.7414"/>
+            <width value="10.1813"/>
+            <height value="5.7004"/>
+        </shape>
+        <shape type="diamond">
+            <center value="84.8754,92.0805"/>
+            <width value="12.309"/>
+            <height value="4.3251"/>
+        </shape>
+        <shape type="diamond">
+            <center value="69.1728,81.6281"/>
+            <width value="11.9055"/>
+            <height value="7.2165"/>
+        </shape>
+        <shape type="diamond">
+            <center value="66.7268,84.152"/>
+            <width value="12.9355"/>
+            <height value="4.923"/>
+        </shape>
+        <shape type="diamond">
+            <center value="73.6176,83.4267"/>
+            <width value="15.9562"/>
+            <height value="7.7014"/>
+        </shape>
+        <shape type="diamond">
+            <center value="73.286,97.1623"/>
+            <width value="2.3022"/>
+            <height value="2.6452"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="81.5888,84.4604"/>
+            <width value="5.401"/>
+            <height value="1.901"/>
+        </shape>
+    </region>
+    <region id="30">
+        <name value="Moria"/>
+        <shape type="diamond">
+            <center value="80.828,78.9797"/>
+            <width value="21.6994"/>
+            <height value="8.4914"/>
+        </shape>
+        <shape type="diamond">
+            <center value="76.361,78.2453"/>
+            <width value="16.7231"/>
+            <height value="3.5754"/>
+        </shape>
+        <shape type="diamond">
+            <center value="88.929,90.1008"/>
+            <width value="10.3164"/>
+            <height value="3.78"/>
+        </shape>
+        <shape type="diamond">
+            <center value="87.3857,89.826"/>
+            <width value="9.5275"/>
+            <height value="2.2878"/>
+        </shape>
+        <shape type="diamond">
+            <center value="87.6494,90.9953"/>
+            <width value="7.075"/>
+            <height value="1.1267"/>
+        </shape>
+        <shape type="diamond">
+            <center value="92.06,86.9941"/>
+            <width value="14.1166"/>
+            <height value="8.0424"/>
+        </shape>
+        <shape type="diamond">
+            <center value="98.668,78.558"/>
+            <width value="13.986"/>
+            <height value="13.1281"/>
+        </shape>
+        <shape type="diamond">
+            <center value="108.7885,75.9616"/>
+            <width value="6.8383"/>
+            <height value="3.5705"/>
+        </shape>
+        <shape type="diamond">
+            <center value="107.131,75.7802"/>
+            <width value="5.265"/>
+            <height value="3.8305"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.7927,73.014,92.6186,78.2355"/>
+        </shape>
+        <shape type="rect">
+            <quad value="85.9946,77.1301,91.637,81.987"/>
+        </shape>
+        <shape type="rect">
+            <quad value="90.9147,72.5603,94.4655,77.536"/>
+        </shape>
+        <shape type="diamond">
+            <center value="84.782,71.919"/>
+            <width value="6.0842"/>
+            <height value="4.881"/>
+        </shape>
+        <shape type="rect">
+            <quad value="76.4282,68.3486,84.2382,74.354"/>
+        </shape>
+        <shape type="diamond">
+            <center value="88.3823,72.6982"/>
+            <width value="3.8105"/>
+            <height value="1.8361"/>
+        </shape>
+        <shape type="rect">
+            <quad value="82.8515,69.3054,98.2832,74.6462"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="74.5205,67.6572,85.919,69.3564"/>
+        </shape>
+    </region>
+    <region id="31">
+        <name value="Watchtower of the Pit"/>
+        <shape type="rect">
+            <quad value="104.8806,63.674,110.4553,72.5603"/>
+        </shape>
+        <shape type="diamond">
+            <center value="102.893,66.4587"/>
+            <width value="12.867"/>
+            <height value="8.5126"/>
+        </shape>
+        <shape type="diamond">
+            <center value="104.4934,59.7595"/>
+            <width value="6.1784"/>
+            <height value="5.4763"/>
+        </shape>
+        <shape type="rect">
+            <quad value="103.3413,59.56,108.9753,65.7082"/>
+        </shape>
+        <shape type="rect">
+            <quad value="78.2092,51.8063,94.2824,69.437"/>
+        </shape>
+        <shape type="rect">
+            <quad value="91.6235,63.0598,97.8845,69.171"/>
+        </shape>
+        <shape type="diamond">
+            <center value="100.8266,70.1442"/>
+            <width value="11.3422"/>
+            <height value="1.7487"/>
+        </shape>
+        <shape type="diamond">
+            <center value="95.9291,59.9411"/>
+            <width value="13.7517"/>
+            <height value="7.9824"/>
+        </shape>
+        <shape type="rect">
+            <quad value="93.8708,67.274,98.0407,69.251"/>
+        </shape>
+        <shape type="rect">
+            <quad value="67.1252,52.2302,79.2746,61.9577"/>
+        </shape>
+        <shape type="rect">
+            <quad value="80.6083,31.4394,92.6184,54.274"/>
+        </shape>
+        <shape type="rect">
+            <quad value="67.3056,54.3051,82.2551,69.0666"/>
+        </shape>
+    </region>
+    <region id="66">
+        <name value="Carth Gruden"/>
+        <shape type="rect">
+            <quad value="211.0354,167.8295,229.8833,195.8454"/>
+        </shape>
+        <shape type="rect">
+            <quad value="202.3161,173.4062,212.2626,197.199"/>
+        </shape>
+        <shape type="rect">
+            <quad value="211.6108,192.3503,215.0524,198.0957"/>
+        </shape>
+        <shape type="diamond">
+            <negative/>
+            <center value="205.1384,194.8652"/>
+            <width value="21.5078"/>
+            <height value="10.2155"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="207.2514,190.605,217.7893,199.138"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="UED Char Research Facility"/>
+        <shape type="circle">
+            <center value="117.2578,125.3608"/>
+            <radius value="4.8205"/>
+        </shape>
+    </region>
+    <region id="32">
+        <name value="UED Char Static 1"/>
+        <shape type="rect">
+            <quad value="110.7998,111.8635,116.9028,119.249"/>
+        </shape>
+    </region>
+    <region id="36">
+        <name value="UED Char Static 2"/>
+        <shape type="rect">
+            <quad value="102.942,115.0212,109.4465,124.899"/>
+        </shape>
+    </region>
+    <region id="37">
+        <name value="UED Char Static 3"/>
+        <shape type="diamond">
+            <center value="105.0014,129.0837"/>
+            <width value="4.6337"/>
+            <height value="8.4482"/>
+        </shape>
+    </region>
+    <region id="40">
+        <name value="UED Char Static 4"/>
+        <shape type="diamond">
+            <center value="99.412,135.397"/>
+            <width value="5.622"/>
+            <height value="7.426"/>
+        </shape>
+    </region>
+    <region id="42">
+        <name value="UED Char Static 5"/>
+        <shape type="diamond">
+            <center value="114.5578,146.911"/>
+            <width value="5.5666"/>
+            <height value="6.135"/>
+        </shape>
+    </region>
+    <region id="43">
+        <name value="UED Char Static 6"/>
+        <shape type="diamond">
+            <center value="121.973,141.7097"/>
+            <width value="6.2873"/>
+            <height value="5.014"/>
+        </shape>
+    </region>
+    <region id="44">
+        <name value="UED Char Static 8"/>
+        <shape type="rect">
+            <quad value="99.188,101.3073,108.2021,111.4948"/>
+        </shape>
+    </region>
+    <region id="45">
+        <name value="UED Char Static 7"/>
+        <shape type="diamond">
+            <center value="112.9885,135.0114"/>
+            <width value="6.5837"/>
+            <height value="8.2534"/>
+        </shape>
+    </region>
+    <region id="46">
+        <name value="Dark Shield Generator"/>
+        <shape type="circle">
+            <center value="13.9233,102.1186"/>
+            <radius value="12.2004"/>
+        </shape>
+        <shape type="circle">
+            <center value="28.3347,102.2282"/>
+            <radius value="8.0563"/>
+        </shape>
+        <shape type="circle">
+            <center value="21.0712,102.0615"/>
+            <radius value="9.3996"/>
+        </shape>
+        <shape type="circle">
+            <center value="23.6198,97.7897"/>
+            <radius value="5.243"/>
+        </shape>
+        <shape type="circle">
+            <center value="25.2602,108.6938"/>
+            <radius value="3.2861"/>
+        </shape>
+    </region>
+    <region id="47">
+        <name value="Mar Sara Zerg"/>
+        <shape type="rect">
+            <quad value="117.7724,198.3613,140.2922,223.6857"/>
+        </shape>
+    </region>
+    <region id="48">
+        <name value="Dylarian Shipyards"/>
+        <shape type="rect">
+            <quad value="206.7553,149.914,220.981,166.8352"/>
+        </shape>
+    </region>
+    <region id="49">
+        <name value="Korhal Space Port"/>
+        <shape type="rect">
+            <quad value="96.0815,205.7106,103.7744,214.9946"/>
+        </shape>
+        <shape type="diamond">
+            <center value="105.2954,206.6247"/>
+            <width value="9.348"/>
+            <height value="14.07"/>
+        </shape>
+        <shape type="diamond">
+            <center value="99.9406,206.2922"/>
+            <width value="9.6044"/>
+            <height value="10.4726"/>
+        </shape>
+        <shape type="diamond">
+            <center value="95.7998,214.3823"/>
+            <width value="3.701"/>
+            <height value="6.2414"/>
+        </shape>
+    </region>
+</Regions>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CGame default="1">
+        <AttackRevealBehavior value=""/>
+        <AttackRevealTime value="0"/>
+    </CGame>
+    <CGame id="Dflt">
+        <TeamColors index="1">
+            <Value index="Diffuse" value="1.000000,0.000000,0.000000,1.000000"/>
+            <Value index="Emissive" value="0.545100,0.062700,0.086100,1.000000"/>
+        </TeamColors>
+        <TeamColors index="12">
+            <Value index="Attacked" value="1.000000,1.000000,1.000000,1.000000"/>
+        </TeamColors>
+        <UnlimitedPause value="0"/>
+        <AttackRevealBehavior value=""/>
+        <CallForHelpPeriod value="0"/>
+        <CallForHelpRadius value="0"/>
+        <AttackRevealTime value="0"/>
+        <PlayerLeaveFlags index="SplitResources" value="0"/>
+    </CGame>
+</Catalog>
